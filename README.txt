@@ -1,4 +1,68 @@
 //================================================
+// Gimp Telechargement
+//================================================
+https://www.gimp.org/
+
+//================================================
+// Gimp Liste Outils
+//================================================
+### 1
+Outil Selection Rectangulaire
+Outil Selection Elliptique
+Outil Selection Main Levée
+Outil Selection Couleur
+Outil Ciseaux Intelligents
+Outil Extraction Premier Plan
+### 2
+Outil Chemins
+Outil Pipette Couleurs
+Outil Zoom
+Outil Mesure
+Outil Deplacement
+Outil Alignement
+Outil Decoupage
+### 3
+Outil Transformation Unifiee
+Outil Rotation
+Outil Mise Echelle
+Outil Cisaillement
+Outil Transformation Poignees
+Outil Perspective
+Outil Retournement
+### 4
+Outil Transformation Cage
+Outil Gauchir
+Outil Texte
+Outil Remplissage
+Outil Degrade
+Outil Crayon
+Outil Pinceau
+### 5
+Outil Gomme
+Outil Aerographe
+Outil Caligraphie
+Outil Brosses MyPaint
+Outil Clonage
+Outil Correcteur
+Outil Clonage Perspective
+### 6
+Outil Flou Nettete
+Outil Barbouillage
+Outil Eclaircissement Assombrissement
+### 7
+Couleur Premier Arriere Plan
+Options Outil 
+Etat Peripheriques 
+Historique Annulation 
+Images 
+### 8
+Brosses
+Motifs
+Polices
+Historique Documents
+Editeur Brosses
+
+//================================================
 // Gimp Creer Image
 //================================================
 Fichier
@@ -30,6 +94,7 @@ Valider
 //================================================
 Options Outil
 
+
 //================================================
 // Gimp Remplir Couleur Premier Plan
 //================================================
@@ -60,10 +125,10 @@ Police
 Broadway
 
 //================================================
-// Gimp Creer Calque
+// Gimp Creer Nouveau Calque
 //================================================
-Options Outil Texte
-
-
-
+Calques
+CALQUE_TEXTE
+Clic Droit
+Nouveau depuis le Visible
 
