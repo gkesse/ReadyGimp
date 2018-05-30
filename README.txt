@@ -1,37 +1,29 @@
 //================================================
-// Gimp Ouvrir Image
+// Gimp Creer Image
 //================================================
 Fichier
-Ouvrir 
-quickie-scale-example.jpg
-
-//================================================
-// Gimp Redimensionner Image
-//================================================
-Image
-Échelle et taille de l'image
-Taille Ratio
-Desactiver
-Taille Unite
-pouces
+Nouvelle Image
 Largeur
 512
 Hauteur
 512
-Interpolation
-Cubique
-Mise à l'échelle
-Fichier
-Enregistrer sous
-main.xcf
+Valider
 
 //================================================
-// Gimp Creer Image Legere
+// Gimp Enregistrer Feuille Dessin
 //================================================
 Fichier
-Enregistrer sous
-main.xcf
-Sélectionner le type de fichier (Selon l'extension)
+Enregistrer sous 
+Nom
+NOM_FEUILLE_DESSIN
+Enregistrer
+
+//================================================
+// Gimp Definir Couleur Premier Plan
+//================================================
+Couleur Premier Plan
+SELECTION_COULEUR
+Valider
 
 
 
