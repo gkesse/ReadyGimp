@@ -83,7 +83,7 @@ Valider
 Fichier
 Enregistrer sous 
 Nom
-FEUILLE_DESSIN
+NOM_FEUILLE_DESSIN
 Enregistrer
 
 //================================================
@@ -103,7 +103,7 @@ Options Outil
 // Gimp Remplir Couleur Premier Plan
 //================================================
 Outil Remplissage
-IMAGE
+NOM_IMAGE
 Cliquer
 
 //================================================
@@ -115,7 +115,7 @@ Outil Permututation Couleur Premier/Arriere Plan
 // Gimp Definir Texte
 //================================================
 Outil Texte
-IMAGE
+NOM_IMAGE
 Cliquer/Glisser
 
 //================================================
@@ -134,14 +134,14 @@ Broadway
 Calque
 Nouveau Calque
 Nom du Calque
-CALQUE
+NOM_CALQUE
 Valider
 
 //================================================
 // Gimp Creer Calque Visible
 //================================================
 Calques
-CALQUE_TEXTE
+NOM_CALQUE
 Clic Droit
 Nouveau depuis le Visible
 
@@ -149,7 +149,7 @@ Nouveau depuis le Visible
 //================================================
 // Gimp Creer Efflet Flou
 //================================================
-CALQUE
+NOM_CALQUE
 Filtres
 Flou
 Flou Gaussien
@@ -164,7 +164,7 @@ Valider
 //================================================
 // Gimp Creer Effet Plasma
 //================================================
-CALQUE
+NOM_CALQUE
 Filtres
 Rendu
 Bruit
@@ -178,7 +178,7 @@ Valider
 //================================================
 // Gimp Creer Effet Repoussage Carte
 //================================================
-CALQUE
+NOM_CALQUE
 Filtres
 Carte
 Repoussage Carte
@@ -187,9 +187,27 @@ Visible
 Type
 Sinusoidal
 Profondeur
-10
+30
 Valider
 
+//================================================
+// Gimp Creer Masque de Calque
+//================================================
+Calque
+Masque
+Ajouter un Masque de Calque
+Initialiser le Masque de Calque A
+Blanc (Opacite Complete)
+Ajouter
+
+
+//================================================
+// Gimp Copier Calque
+//================================================
+Calques
+NOM_CALQUE
+Edition
+Copier
 
 
 
