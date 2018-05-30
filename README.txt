@@ -90,14 +90,14 @@ Enregistrer
 // Gimp Definir Couleur Premier Plan
 //================================================
 Couleur Premier Plan
-SELECTION_COULEUR
+Notation HTML
+NOM_COULEUR
 Valider
 
 //================================================
 // Gimp Acceder Options Outil
 //================================================
 Options Outil
-
 
 //================================================
 // Gimp Remplir Couleur Premier Plan
@@ -149,6 +149,7 @@ Nouveau depuis le Visible
 //================================================
 // Gimp Creer Efflet Flou
 //================================================
+Calques
 NOM_CALQUE
 Filtres
 Flou
@@ -164,6 +165,7 @@ Valider
 //================================================
 // Gimp Creer Effet Plasma
 //================================================
+Calques
 NOM_CALQUE
 Filtres
 Rendu
@@ -222,6 +224,70 @@ Coller
 //================================================
 Calque
 Ancrer Calque
+
+//================================================
+// Gimp Ajuster Niveau Couleur
+//================================================
+Calques
+NOM_CALQUE
+Couleurs
+Niveaux
+Niveau Entree Gauche
+50
+Niveau Entree Milieu
+2.50
+Niveau Entree Droite
+255
+Valider
+
+//================================================
+// Gimp Dupliquer Calque
+//================================================
+Calques
+NOM_CALQUE
+Calque
+Dupliquer le Calque
+
+//================================================
+// Gimp Inverser Couleur Calque
+//================================================
+Calques
+NOM_CALQUE
+Couleur
+Inverser
+
+//================================================
+// Gimp Creer Couleur Transparent
+//================================================
+Calques
+NOM_CALQUE
+Calque
+Transparence
+Couleur vers Alpha
+Couleur
+NOM_COULEUR
+
+//================================================
+// Gimp Deplacer Calque
+//================================================
+Calques
+NOM_CALQUE
+Outil Deplacement
+BAS +10
+DOITE +10
+
+//================================================
+// Gimp Mode Aucune Selection
+//================================================
+Selection
+Aucune
+
+
+
+
+
+
+
 
 
 
