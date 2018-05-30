@@ -61,6 +61,10 @@ Motifs
 Polices
 Historique Documents
 Editeur Brosses
+### 9
+Calques
+Canneaux
+Chemins
 
 //================================================
 // Gimp Creer Image
@@ -132,3 +136,10 @@ CALQUE_TEXTE
 Clic Droit
 Nouveau depuis le Visible
 
+//================================================
+// Gimp Ajouter Flou
+//================================================
+CALQUE
+Filtres
+Flou
+Flou Gaussien
