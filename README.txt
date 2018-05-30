@@ -131,15 +131,46 @@ Broadway
 //================================================
 // Gimp Creer Nouveau Calque
 //================================================
+Calque
+Nouveau Calque
+Nom du Calque
+CALQUE
+Valider
+
+//================================================
+// Gimp Creer Calque Visible
+//================================================
 Calques
 CALQUE_TEXTE
 Clic Droit
 Nouveau depuis le Visible
 
+
 //================================================
-// Gimp Ajouter Flou
+// Gimp Ajouter Efflet Flou
 //================================================
 CALQUE
 Filtres
 Flou
 Flou Gaussien
+Taille Ration
+Activer
+Taille X
+5.50
+Taille Y
+5.50
+Valider
+
+//================================================
+// Gimp Ajouter Effet Plasma
+//================================================
+CALQUE
+Filtres
+Rendu
+Bruit
+Plasma
+Turbulence 
+1.000
+Germe Aleatoire
+0
+Valider
