@@ -147,7 +147,7 @@ Nouveau depuis le Visible
 
 
 //================================================
-// Gimp Ajouter Efflet Flou
+// Gimp Creer Efflet Flou
 //================================================
 CALQUE
 Filtres
@@ -162,7 +162,7 @@ Taille Y
 Valider
 
 //================================================
-// Gimp Ajouter Effet Plasma
+// Gimp Creer Effet Plasma
 //================================================
 CALQUE
 Filtres
@@ -174,3 +174,23 @@ Turbulence
 Germe Aleatoire
 0
 Valider
+
+//================================================
+// Gimp Creer Effet Repoussage Carte
+//================================================
+CALQUE
+Filtres
+Carte
+Repoussage Carte
+Entree Aux
+Visible 
+Type
+Sinusoidal
+Profondeur
+10
+Valider
+
+
+
+
+
