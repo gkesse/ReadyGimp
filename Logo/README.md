@@ -1,9 +1,9 @@
-# Test Creer Logo 
+# Test Créer Logo 
 
-Le but de ce test est de vous apprendre un logo avec un effet de flottant.  
+Le but de ce test est de vous apprendre à créer un logo avec un effet de flottant.  
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 
 # Résultat Final
 
-![Test Creer Logo ](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo.png)
+![Logo.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo.png)
