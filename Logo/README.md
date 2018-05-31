@@ -26,3 +26,4 @@ Le but de ce test est de vous apprendre à créer un logo avec un effet de flott
 * Déplacer Calque Transparent Bas Droite
 * Pour Créer Effet Ombre
 * Ajuster Niveau Couleur Calque Masque
+* Créer Calque Fond Bleu
