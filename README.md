@@ -76,13 +76,13 @@ Produit par
 
 # Gimp Creer Image
 
-Fichier
-Nouvelle Image
-Largeur
-512
-Hauteur
-512
-Valider
+* Fichier
+* Nouvelle Image
+* Largeur
+* 512
+* Hauteur
+* 512
+* Valider
 
 # Gimp Enregistrer Feuille Dessin
 
@@ -188,95 +188,94 @@ Valider
 
 # Gimp Creer Masque de Calque
 
-Calque
-Masque
-Ajouter un Masque de Calque
-Initialiser le Masque de Calque A
-Blanc (Opacite Complete)
-Ajouter
-
+* Calque
+* Masque
+* Ajouter un Masque de Calque
+* Initialiser le Masque de Calque A
+* Blanc (Opacite Complete)
+* Ajouter
 
 # Gimp Copier Calque
 
-Calques
-NOM_CALQUE
-Edition
-Copier
+* Calques
+* NOM_CALQUE
+* Edition
+* Copier
 
 # Gimp Coller Calque
 
-Calques
-NOM_CALQUE
-Edition
-Coller
+* Calques
+* NOM_CALQUE
+* Edition
+* Coller
 
 # Gimp Ancrer Calque
 
-Calque
-Ancrer Calque
+* Calque
+* Ancrer Calque
 
 # Gimp Ajuster Niveau Couleur
 
-Calques
-NOM_CALQUE
-Couleurs
-Niveaux
-Niveau Entree Gauche
-50
-Niveau Entree Milieu
-2.50
-Niveau Entree Droite
-255
-Valider
+* Calques
+* NOM_CALQUE
+* Couleurs
+* Niveaux
+* Niveau Entree Gauche
+* 50
+* Niveau Entree Milieu
+* 2.50
+* Niveau Entree Droite
+* 255
+* Valider
 
 # Gimp Dupliquer Calque
 
-Calques
-NOM_CALQUE
-Calque
-Dupliquer le Calque
+* Calques
+* NOM_CALQUE
+* Calque
+* Dupliquer le Calque
 
 # Gimp Inverser Couleur Calque
 
-Calques
-NOM_CALQUE
-Couleur
-Inverser
+* Calques
+* NOM_CALQUE
+* Couleur
+* Inverser
 
 # Gimp Creer Couleur Transparent
 
-Calques
-NOM_CALQUE
-Calque
-Transparence
-Couleur vers Alpha
-Couleur
-NOM_COULEUR
+* Calques
+* NOM_CALQUE
+* Calque
+* Transparence
+* Couleur vers Alpha
+* Couleur
+* NOM_COULEUR
 
 # Gimp Deplacer Calque
 
-Calques
-NOM_CALQUE
-Outil Deplacement
-BAS +10
-DOITE +5
+* Calques
+* NOM_CALQUE
+* Outil Deplacement
+* BAS +10
+* DOITE +5
 
 # Gimp Mode Aucune Selection
 
-Selection
-Aucune
+* Selection
+* Aucune
 
 # Gimp Decouper Calque
 
-Calques
-NOM_CALQUE
-Outil Decoupage
-Largeur 
-440 px 
-Hauteur
-440 px
-Clic Gauche
-NOM_CALQUE
+* Calques
+* NOM_CALQUE
+* Outil Decoupage
+* Largeur 
+* 440 px 
+* Hauteur
+* 440 px
+* Clic Gauche
+* NOM_CALQUE
 
 
 
