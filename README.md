@@ -4,7 +4,7 @@ Gimp est un outil de synthèse d'images.
 Le but de ce tutoriel est de vous apprendre la synthèse d'images avec GIMP.
 Produit par Gérard KESSE.
 
-* [Gimp Téléchargement](#Gimp Telechargement "Gimp Telechargement") 
+* [Gimp Téléchargement](#Gimp-Téléchargement "Gimp Telechargement") 
 
 # Gimp Telechargement
 
