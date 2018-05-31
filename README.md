@@ -9,30 +9,31 @@ Produit par
 
 * [Gimp Téléchargement](#gimp-telechargement "Gimp Téléchargement") 
 * [Gimp Liste Outils](#gimp-liste-outils "Gimp Liste Outils") 
-* [Gimp Créer Image](#gimp-creer-image "Gimp Créer Image") 
+* [Gimp Créer Image](#gimp-Créer-image "Gimp Créer Image") 
 * [Gimp Enregistrer Feuille Dessin](#gimp-enregistrer-feuille-dessin "Gimp Enregistrer Feuille Dessin") 
-* [Gimp Definir Couleur Premier Plan](#gimp-definir-couleur-premier-plan "Gimp Definir Couleur Premier Plan") 
-* [Gimp Acceder Options Outil](#gimp-acceder-options-outil "Gimp Acceder Options Outil") 
+* [Gimp Expoter Image Png](#gimp-expoter-image-png "Gimp Expoter Image Png") 
+* [Gimp Définir Couleur Premier Plan](#gimp-Définir-couleur-premier-plan "Gimp Définir Couleur Premier Plan") 
+* [Gimp Accéder Options Outil](#gimp-Accéder-options-outil "Gimp Accéder Options Outil") 
 * [Gimp Remplir Couleur Premier Plan](#gimp-remplir-couleur-premier-plan "Gimp Remplir Couleur Premier Plan") 
 * [Gimp Permuter Couleur Premier Arriere Plan](#gimp-permuter-couleur-premier-arriere-plan "Gimp Permuter Couleur Premier Arriere Plan") 
-* [Gimp Definir Texte](#gimp-definir-texte "Gimp Definir Texte") 
-* [Gimp Definir Options Outil Texte](#gimp-definir-options-outil-texte "Gimp Definir Options Outil Texte") 
-* [Gimp Creer Nouveau Calque](#gimp-creer-nouveau-calque "Gimp Creer Nouveau Calque") 
-* [Gimp Creer Calque Visible](#gimp- "Gimp Creer Calque Visible") 
-* [Gimp Creer Calque Visible](#gimp-creer-calque-visible "Gimp Creer Calque Visible") 
-* [Gimp Creer Efflet Flou](#gimp-creer-efflet-flou "Gimp Creer Efflet Flou") 
-* [Gimp Creer Effet Plasma](#gimp-creer-effet-plasma "Gimp Creer Effet Plasma") 
-* [Gimp Creer Effet Repoussage Carte](#gimp-creer-effet-repoussage-carte "Gimp Creer Effet Repoussage Carte") 
-* [Gimp Creer Masque de Calque](#gimp-creer-masque-de-calque "Gimp Creer Masque de Calque") 
+* [Gimp Définir Texte](#gimp-Définir-texte "Gimp Définir Texte") 
+* [Gimp Définir Options Outil Texte](#gimp-Définir-options-outil-texte "Gimp Définir Options Outil Texte") 
+* [Gimp Créer Nouveau Calque](#gimp-Créer-nouveau-calque "Gimp Créer Nouveau Calque") 
+* [Gimp Créer Calque Visible](#gimp- "Gimp Créer Calque Visible") 
+* [Gimp Créer Calque Visible](#gimp-Créer-calque-visible "Gimp Créer Calque Visible") 
+* [Gimp Créer Efflet Flou Gaussien](#gimp-Créer-efflet-flou-gaussien "Gimp Créer Efflet Flou Gaussien") 
+* [Gimp Créer Effet Plasma](#gimp-Créer-effet-plasma "Gimp Créer Effet Plasma") 
+* [Gimp Créer Effet Repoussage Carte](#gimp-Créer-effet-repoussage-carte "Gimp Créer Effet Repoussage Carte") 
+* [Gimp Créer Masque de Calque](#gimp-Créer-masque-de-calque "Gimp Créer Masque de Calque") 
 * [Gimp Copier Calque](#gimp-copier-calque "Gimp Copier Calque") 
 * [Gimp Coller Calque](#gimp-coller-calque "Gimp Coller Calque") 
 * [Gimp Ancrer Calque](#gimp-ancrer-calque "Gimp Ancrer Calque") 
 * [Gimp Ajuster Niveau Couleur](#gimp-ajuster-niveau-couleur "Gimp Ajuster Niveau Couleur") 
 * [Gimp Dupliquer Calque](#gimp-dupliquer-calque "Gimp Dupliquer Calque") 
 * [Gimp Inverser Couleur Calque](#gimp-inverser-couleur-calque "Gimp Inverser Couleur Calque") 
-* [Gimp Creer Couleur Transparent](#gimp-creer-couleur-transparent "Gimp Creer Couleur Transparent") 
-* [Gimp Deplacer Calque](#gimp-deplacer-calque "Gimp Deplacer Calque") 
-* [Gimp Mode Aucune Selection](#gimp-mode-aucune-selection "Gimp Mode Aucune Selection") 
+* [Gimp Créer Couleur Transparent](#gimp-Créer-couleur-transparent "Gimp Créer Couleur Transparent") 
+* [Gimp Déplacer Calque](#gimp-Déplacer-calque "Gimp Déplacer Calque") 
+* [Gimp Mode Aucune Sélection](#gimp-mode-aucune-Sélection "Gimp Mode Aucune Sélection") 
 * [Gimp Decouper Calque](#gimp-decouper-calque "Gimp Decouper Calque") 
 
 # Tests
@@ -46,10 +47,10 @@ Produit par
 # Gimp Liste Outils
 
 ###### Menu 1
-* Outil Selection Rectangulaire
-* Outil Selection Elliptique
-* Outil Selection Main Levée
-* Outil Selection Couleur
+* Outil Sélection Rectangulaire
+* Outil Sélection Elliptique
+* Outil Sélection Main Levée
+* Outil Sélection Couleur
 * Outil Ciseaux Intelligents
 * Outil Extraction Premier Plan
 ###### Menu 2
@@ -57,15 +58,15 @@ Produit par
 * Outil Pipette Couleurs
 * Outil Zoom
 * Outil Mesure
-* Outil Deplacement
+* Outil Déplacement
 * Outil Alignement
 * Outil Decoupage
 ###### Menu 3
-* Outil Transformation Unifiee
+* Outil Transformation Unifiée
 * Outil Rotation
 * Outil Mise Echelle
 * Outil Cisaillement
-* Outil Transformation Poignees
+* Outil Transformation Poignées
 * Outil Perspective
 * Outil Retournement
 ###### Menu 4
@@ -73,25 +74,25 @@ Produit par
 * Outil Gauchir
 * Outil Texte
 * Outil Remplissage
-* Outil Degrade
+* Outil Dégradé
 * Outil Crayon
 * Outil Pinceau
 ###### Menu 5
 * Outil Gomme
-* Outil Aerographe
+* Outil Aérographe
 * Outil Caligraphie
 * Outil Brosses MyPaint
 * Outil Clonage
 * Outil Correcteur
 * Outil Clonage Perspective
 ###### Menu 6
-* Outil Flou Nettete
+* Outil Flou Netteté
 * Outil Barbouillage
 * Outil Eclaircissement Assombrissement
 ###### Menu 7
 * Couleur Premier Arriere Plan
 * Options Outil 
-* Etat Peripheriques 
+* Etat Périphériques 
 * Historique Annulation 
 * Images 
 ###### Menu 8
@@ -105,7 +106,7 @@ Produit par
 * Canneaux
 * Chemins
 
-# Gimp Creer Image
+# Gimp Créer Image
 
 * Fichier
 * Nouvelle Image
@@ -123,14 +124,25 @@ Produit par
 * NOM_FEUILLE_DESSIN
 * Enregistrer
 
-# Gimp Definir Couleur Premier Plan
+# Gimp Expoter Image Png
+
+* Fichier
+* Exporter sous
+* Nom
+* NOM_IMAGE.png 
+* Exporter
+* Desactiver
+* Enregistrer la Couleur Arriere Plan
+* Exporter
+
+# Gimp Définir Couleur Premier Plan
 
 * Couleur Premier Plan
 * Notation HTML
 * NOM_COULEUR
 * Valider
 
-# Gimp Acceder Options Outil
+# Gimp Accéder Options Outil
 
 * Options Outil
 
@@ -144,13 +156,13 @@ Produit par
 
 * Outil Permututation Couleur Premier Arriere Plan
 
-# Gimp Definir Texte
+# Gimp Définir Texte
 
 * Outil Texte
 * NOM_IMAGE
 * Cliquer/Glisser
 
-# Gimp Definir Options Outil Texte
+# Gimp Définir Options Outil Texte
 
 * Options Outil Texte
 * Taille
@@ -158,7 +170,7 @@ Produit par
 * Police
 * Broadway
 
-# Gimp Creer Nouveau Calque
+# Gimp Créer Nouveau Calque
 
 * Calque
 * Nouveau Calque
@@ -166,7 +178,7 @@ Produit par
 * NOM_CALQUE
 * Valider
 
-# Gimp Creer Calque Visible
+# Gimp Créer Calque Visible
 
 * Calques
 * NOM_CALQUE
@@ -174,7 +186,7 @@ Produit par
 * Nouveau depuis le Visible
 
 
-# Gimp Creer Efflet Flou
+# Gimp Créer Efflet Flou Gaussien
 
 * Calques
 * NOM_CALQUE
@@ -189,7 +201,7 @@ Produit par
 * 5.50
 * Valider
 
-# Gimp Creer Effet Plasma
+# Gimp Créer Effet Plasma
 
 * Calques
 * NOM_CALQUE
@@ -199,11 +211,11 @@ Produit par
 * Plasma
 * Turbulence 
 * 1.000
-* Germe Aleatoire
+* Germe Aléatoire
 * 0
 * Valider
 
-# Gimp Creer Effet Repoussage Carte
+# Gimp Créer Effet Repoussage Carte
 
 * NOM_CALQUE
 * Filtres
@@ -217,12 +229,12 @@ Produit par
 * 30
 * Valider
 
-# Gimp Creer Masque de Calque
+# Gimp Créer Masque de Calque
 
 * Calque
 * Masque
 * Ajouter un Masque de Calque
-* Initialiser le Masque de Calque A
+* Initialiser le Masque de Calque
 * Blanc (Opacite Complete)
 * Ajouter
 
@@ -273,7 +285,7 @@ Produit par
 * Couleur
 * Inverser
 
-# Gimp Creer Couleur Transparent
+# Gimp Créer Couleur Transparent
 
 * Calques
 * NOM_CALQUE
@@ -283,17 +295,17 @@ Produit par
 * Couleur
 * NOM_COULEUR
 
-# Gimp Deplacer Calque
+# Gimp Déplacer Calque
 
 * Calques
 * NOM_CALQUE
-* Outil Deplacement
+* Outil Déplacement
 * BAS +10
 * DOITE +5
 
-# Gimp Mode Aucune Selection
+# Gimp Mode Aucune Sélection
 
-* Selection
+* Sélection
 * Aucune
 
 # Gimp Decouper Calque
@@ -307,12 +319,4 @@ Produit par
 * 440 px
 * Clic Gauche
 * NOM_CALQUE
-
-
-
-
-
-
-
-
 
