@@ -37,7 +37,7 @@ Produit par
 * [Gimp Découper Calque](#gimp-découper-calque "Gimp Découper Calque") 
 
 # Tests
-* [Test Créer Rectangule](Rectangule#test-créer-rectangule "Test Créer Rectangule") 
+* [Test Créer Rectangule](Rectangle#test-créer-rectangle "Test Créer Rectangule") 
 * [Test Créer Carré](Carre#test-créer-carré "Test Créer Carré") 
 * [Test Créer Ellipse](Ellipse#test-créer-ellipse "Test Créer Ellipse") 
 * [Test Créer Cercle](Cercle#test-créer-cercle "Test Créer Cercle") 
