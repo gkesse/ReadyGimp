@@ -15,10 +15,12 @@ Produit par
 * Fichier
 * Nouvelle Image
 
+
 * Outil Couleur Premier Plan
 * Notation HTML
 * 051039
 * Valider
+
 
 * Outil Remplissage
 * Mode
@@ -38,6 +40,7 @@ Produit par
 * Carre
 * Valier
 
+
 * Outil de Sélection Rectangulaire
 * Activer
 * Lissage
@@ -48,12 +51,15 @@ Produit par
 * Cliquer/Glisser Dessus
 * Pour Dessiner Carré
 
+
 * Outil Permuter Couleur Premier/Arrière Plan
+
 
 * Outil Couleur Premier Plan
 * Notation HTML
 * 373f60
 * Valider
+
 
 * Outil Remplissage
 * Mode
