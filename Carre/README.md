@@ -13,7 +13,7 @@ Produit par
 ###### Créer Nouvelle Image
 
 * Créer Nouvelle Image
-     Fichier
+    * Fichier
     * Nouvelle Image
 
 * Définir une Couleur
@@ -33,44 +33,42 @@ Produit par
     * Cliquer Dessus
     * Pour Appliquer Couleur
 
-###### Créer Calque
-
-* Calque
-* Nouvelle Calque
-* Nom du Calque
-* Carre
-* Valier
-
 ###### Créer Carré
 
-* Sélectionner
-* CALQUE_CARRE
-* Outil de Sélection Rectangulaire
-* Activer
-* Lissage
-* Désactiver
-* Fixe
-* Cliquer/Glisser Dessus
-* Pour Dessiner Carré
+* Créer Calque
+    * Calque
+    * Nouvelle Calque
+    * Nom du Calque
+    * Carre
+    * Valier
 
-###### Permuter Couleur Premier Arrière Plan
+* Créer Carré
+    * Sélectionner
+    * CALQUE_CARRE
+    * Outil de Sélection Rectangulaire
+    * Activer
+    * Lissage
+    * Désactiver
+    * Fixe
+    * Cliquer/Glisser Dessus
+    * Pour Dessiner Carré
 
-* Outil Permuter Couleur Premier Arrière Plan
+* Permuter Couleur Premier Arrière Plan
+    * Outil Permuter Couleur Premier Arrière Plan
 
-###### Permuter Couleur Premier Arrière Plan
+* Définir une Couleur
+    * Outil Couleur Premier Plan
+    * Notation HTML
+    * 373f60
+    * Valider
 
-* Outil Couleur Premier Plan
-* Notation HTML
-* 373f60
-* Valider
-
-
-* Outil Remplissage
-* Mode
-* Normal
-* Opacité
-* 100
-* Sélectionner
-* CALQUE_CARRE
-* Cliquer Dessus
-* Pour Appliquer Couleur
+* Ajouter une Couleur
+    * Outil Remplissage
+    * Mode
+    * Normal
+    * Opacité
+    * 100
+    * Sélectionner
+    * CALQUE_CARRE
+    * Cliquer Dessus
+    * Pour Appliquer Couleur
