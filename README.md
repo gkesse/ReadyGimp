@@ -37,6 +37,12 @@ Produit par
 * [Gimp Découper Calque](#gimp-découper-calque "Gimp Découper Calque") 
 
 # Tests
+* [Test Créer Rectangule](Rectangule#test-créer-rectangule "Test Créer Rectangule") 
+* [Test Créer Carré](Carré#test-créer-carré "Test Créer Carré") 
+* [Test Créer Ellipse](Ellipse#test-créer-ellipse "Test Créer Ellipse") 
+* [Test Créer Cercle](Logo#test-créer-cercle "Test Créer Cercle") 
+* [Test Créer Logo](Logo#test-créer-logo "Test Créer Logo") 
+* [Test Créer Logo](Logo#test-créer-logo "Test Créer Logo") 
 * [Test Créer Logo](Logo#test-créer-logo "Test Créer Logo") 
 
 # Gimp Téléchargement
