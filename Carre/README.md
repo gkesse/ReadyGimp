@@ -1,6 +1,6 @@
 # Test Créer Carré 
 
-Le but de ce test est de vous apprendre à créer un carré.  
+Le but de ce test est de vous apprendre à créer un Carré.  
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 

@@ -1,6 +1,6 @@
 # Test Créer Cercle 
 
-Le but de ce test est de vous apprendre à créer un cercle.  
+Le but de ce test est de vous apprendre à créer un Cercle.  
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 
