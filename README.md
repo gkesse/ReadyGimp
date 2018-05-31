@@ -5,6 +5,8 @@ Le but de ce tutoriel est de vous apprendre la synthèse d'images avec GIMP.
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 
+# Sommaire
+
 * [Gimp Téléchargement](#gimp-telechargement "Gimp Téléchargement") 
 * [Gimp Liste Outils](#gimp-liste-outils "Gimp Liste Outils") 
 
