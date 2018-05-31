@@ -10,6 +10,9 @@ Produit par
 
 # Procédure Suivie
 
+* [Créer Nouvelle Image](#créer-nouvelle-image "Créer Nouvelle Image") 
+* [Créer Carré](#créer-carré "Créer Carré") 
+
 ### Créer Nouvelle Image
 
 * Créer Nouvelle Image
