@@ -26,9 +26,11 @@ Produit par
 * [Gimp ](#gimp- "Gimp ") 
 * [Gimp ](#gimp- "Gimp ") 
 
-# Gimp Téléchargement | [Sommaire](#sommaire "Sommaire")
+# Gimp Téléchargement
 
 * https://www.gimp.org/
+
+[Sommaire](#sommaire "Sommaire")
 
 # Gimp Liste Outils
 
@@ -92,7 +94,9 @@ Produit par
 * Canneaux
 * Chemins
 
-# Gimp Creer Image | [Sommaire](#sommaire "Sommaire")
+[Sommaire](#sommaire "Sommaire")
+
+# Gimp Creer Image
 
 * Fichier
 * Nouvelle Image
@@ -102,7 +106,7 @@ Produit par
 * 512
 * Valider
 
-# Gimp Enregistrer Feuille Dessin | [Sommaire](#sommaire "Sommaire")
+# Gimp Enregistrer Feuille Dessin
 
 * Fichier
 * Enregistrer sous 
@@ -110,34 +114,34 @@ Produit par
 * NOM_FEUILLE_DESSIN
 * Enregistrer
 
-# Gimp Definir Couleur Premier Plan | [Sommaire](#sommaire "Sommaire")
+# Gimp Definir Couleur Premier Plan
 
 * Couleur Premier Plan
 * Notation HTML
 * NOM_COULEUR
 * Valider
 
-# Gimp Acceder Options Outil | [Sommaire](#sommaire "Sommaire")
+# Gimp Acceder Options Outil
 
 * Options Outil
 
-# Gimp Remplir Couleur Premier Plan | [Sommaire](#sommaire "Sommaire")
+# Gimp Remplir Couleur Premier Plan
 
 * Outil Remplissage
 * NOM_IMAGE
 * Cliquer
 
-# Gimp Permuter Couleur Premier Arriere Plan | [Sommaire](#sommaire "Sommaire")
+# Gimp Permuter Couleur Premier Arriere Plan
 
 * Outil Permututation Couleur Premier Arriere Plan
 
-# Gimp Definir Texte | [Sommaire](#sommaire "Sommaire")
+# Gimp Definir Texte
 
 * Outil Texte
 * NOM_IMAGE
 * Cliquer/Glisser
 
-# Gimp Definir Options Outil Texte | [Sommaire](#sommaire "Sommaire")
+# Gimp Definir Options Outil Texte
 
 * Options Outil Texte
 * Taille
@@ -145,7 +149,7 @@ Produit par
 * Police
 * Broadway
 
-# Gimp Creer Nouveau Calque | [Sommaire](#sommaire "Sommaire")
+# Gimp Creer Nouveau Calque
 
 * Calque
 * Nouveau Calque
@@ -153,7 +157,7 @@ Produit par
 * NOM_CALQUE
 * Valider
 
-# Gimp Creer Calque Visible | [Sommaire](#sommaire "Sommaire")
+# Gimp Creer Calque Visible
 
 * Calques
 * NOM_CALQUE
@@ -161,7 +165,7 @@ Produit par
 * Nouveau depuis le Visible
 
 
-# Gimp Creer Efflet Flou | [Sommaire](#sommaire "Sommaire")
+# Gimp Creer Efflet Flou
 
 * Calques
 * NOM_CALQUE
@@ -176,7 +180,7 @@ Produit par
 * 5.50
 * Valider
 
-# Gimp Creer Effet Plasma | [Sommaire](#sommaire "Sommaire")
+# Gimp Creer Effet Plasma
 
 * Calques
 * NOM_CALQUE
@@ -190,7 +194,7 @@ Produit par
 * 0
 * Valider
 
-# Gimp Creer Effet Repoussage Carte | [Sommaire](#sommaire "Sommaire")
+# Gimp Creer Effet Repoussage Carte
 
 * NOM_CALQUE
 * Filtres
@@ -204,7 +208,7 @@ Produit par
 * 30
 * Valider
 
-# Gimp Creer Masque de Calque | [Sommaire](#sommaire "Sommaire")
+# Gimp Creer Masque de Calque
 
 * Calque
 * Masque
@@ -213,26 +217,26 @@ Produit par
 * Blanc (Opacite Complete)
 * Ajouter
 
-# Gimp Copier Calque | [Sommaire](#sommaire "Sommaire")
+# Gimp Copier Calque
 
 * Calques
 * NOM_CALQUE
 * Edition
 * Copier
 
-# Gimp Coller Calque | [Sommaire](#sommaire "Sommaire")
+# Gimp Coller Calque
 
 * Calques
 * NOM_CALQUE
 * Edition
 * Coller
 
-# Gimp Ancrer Calque | [Sommaire](#sommaire "Sommaire")
+# Gimp Ancrer Calque
 
 * Calque
 * Ancrer Calque
 
-# Gimp Ajuster Niveau Couleur | [Sommaire](#sommaire "Sommaire")
+# Gimp Ajuster Niveau Couleur
 
 * Calques
 * NOM_CALQUE
@@ -246,21 +250,21 @@ Produit par
 * 255
 * Valider
 
-# Gimp Dupliquer Calque | [Sommaire](#sommaire "Sommaire")
+# Gimp Dupliquer Calque
 
 * Calques
 * NOM_CALQUE
 * Calque
 * Dupliquer le Calque
 
-# Gimp Inverser Couleur Calque | [Sommaire](#sommaire "Sommaire")
+# Gimp Inverser Couleur Calque
 
 * Calques
 * NOM_CALQUE
 * Couleur
 * Inverser
 
-# Gimp Creer Couleur Transparent | [Sommaire](#sommaire "Sommaire")
+# Gimp Creer Couleur Transparent
 
 * Calques
 * NOM_CALQUE
@@ -270,7 +274,7 @@ Produit par
 * Couleur
 * NOM_COULEUR
 
-# Gimp Deplacer Calque | [Sommaire](#sommaire "Sommaire")
+# Gimp Deplacer Calque
 
 * Calques
 * NOM_CALQUE
@@ -278,12 +282,12 @@ Produit par
 * BAS +10
 * DOITE +5
 
-# Gimp Mode Aucune Selection | [Sommaire](#sommaire "Sommaire")
+# Gimp Mode Aucune Selection
 
 * Selection
 * Aucune
 
-# Gimp Decouper Calque | [Sommaire](#sommaire "Sommaire")
+# Gimp Decouper Calque
 
 * Calques
 * NOM_CALQUE
