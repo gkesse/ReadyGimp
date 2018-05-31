@@ -274,7 +274,7 @@ Calques
 NOM_CALQUE
 Outil Deplacement
 BAS +10
-DOITE +10
+DOITE +5
 
 //================================================
 // Gimp Mode Aucune Selection
@@ -282,6 +282,18 @@ DOITE +10
 Selection
 Aucune
 
+//================================================
+// Gimp Decouper Calque
+//================================================
+Calques
+NOM_CALQUE
+Outil Decoupage
+Largeur 
+440 px 
+Hauteur
+440 px
+Clic Gauche
+NOM_CALQUE
 
 
 
