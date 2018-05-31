@@ -371,7 +371,10 @@ Produit par
 * Edition
 * Annuler Dernière Sélection
 
+# Gimp Mode Aucune Sélection
 
+* Sélection
+* Aucune Sélection
 
 
 
