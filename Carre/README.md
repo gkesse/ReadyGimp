@@ -10,7 +10,7 @@ Produit par
 
 # Procédure Suivie
 
-#### Créer Nouvelle Image
+### Créer Nouvelle Image
 
 * Créer Nouvelle Image
     * Fichier
@@ -33,7 +33,7 @@ Produit par
     * Cliquer Dessus
     * Pour Appliquer Couleur
 
-#### Créer Carré
+### Créer Carré
 
 * Créer Calque
     * Calque
