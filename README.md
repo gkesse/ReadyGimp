@@ -16,7 +16,7 @@ Produit par
 * [Gimp Définir Couleur Premier Plan](#gimp-définir-couleur-premier-plan "Gimp Définir Couleur Premier Plan") 
 * [Gimp Accéder Options Outil](#gimp-accéder-options-outil "Gimp Accéder Options Outil") 
 * [Gimp Remplir Couleur Premier Plan](#gimp-remplir-couleur-premier-plan "Gimp Remplir Couleur Premier Plan") 
-* [Gimp Permuter Couleur Premier Arriere Plan](#gimp-permuter-couleur-premier-arriere-plan "Gimp Permuter Couleur Premier Arriere Plan") 
+* [Gimp Permuter Couleur Premier Arrière Plan](#gimp-permuter-couleur-premier-arrière-plan "Gimp Permuter Couleur Premier Arrière Plan") 
 * [Gimp Définir Texte](#gimp-définir-texte "Gimp Définir Texte") 
 * [Gimp Définir Options Outil Texte](#gimp-définir-options-outil-texte "Gimp Définir Options Outil Texte") 
 * [Gimp Créer Nouveau Calque](#gimp-créer-nouveau-calque "Gimp Créer Nouveau Calque") 
@@ -59,7 +59,7 @@ Produit par
 * Outil Mesure
 * Outil Déplacement
 * Outil Alignement
-* Outil Decoupage
+* Outil Découpage
 ###### Menu 3
 * Outil Transformation Unifiée
 * Outil Rotation
@@ -89,7 +89,7 @@ Produit par
 * Outil Barbouillage
 * Outil Eclaircissement Assombrissement
 ###### Menu 7
-* Couleur Premier Arriere Plan
+* Couleur Premier Arrière Plan
 * Options Outil 
 * Etat Périphériques 
 * Historique Annulation 
@@ -131,7 +131,7 @@ Produit par
 * NOM_IMAGE.png 
 * Exporter
 * Desactiver
-* Enregistrer la Couleur Arriere Plan
+* Enregistrer la Couleur Arrière Plan
 * Exporter
 
 # Gimp Redimensionner Taille Canevas
@@ -161,9 +161,9 @@ Produit par
 * NOM_IMAGE
 * Cliquer
 
-# Gimp Permuter Couleur Premier Arriere Plan
+# Gimp Permuter Couleur Premier Arrière Plan
 
-* Outil Permututation Couleur Premier Arriere Plan
+* Outil Permututation Couleur Premier Arrière Plan
 
 # Gimp Définir Texte
 
@@ -321,11 +321,47 @@ Produit par
 
 * Calques
 * NOM_CALQUE
-* Outil Decoupage
+* Outil Découpage
 * Largeur 
 * 440 px 
 * Hauteur
 * 440 px
 * Clic Gauche
 * NOM_CALQUE
+
+# Gimp Créer Cercle
+
+* Outil Sélection Elliptique
+* NOM_CALQUE
+* Cliquer/Glisser
+* Touche Shift
+
+# Gimp Créer Ellipse
+
+* Outil Sélection Elliptique
+* NOM_CALQUE
+* Cliquer/Glisser
+
+# Gimp Créer Gradient Couleur
+
+* Outil Sélection Elliptique
+* Outil Dégradé
+* Couleur Premier Plan
+* NOM_COULEUR_CLAIRE
+* Valider
+* Couleur Arrière Plan
+* NOM_COULEUR_FONCEE
+* Valider
+
+
+
+
+
+
+
+
+
+
+
+
 
