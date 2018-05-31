@@ -76,3 +76,6 @@ Produit par
     * Cliquer Dessus
     * Pour Appliquer Couleur
 ---
+# Voir Aussi
+
+* [Sommaire](https://github.com/gkesse/ReadyGimp/ "Sommaire")

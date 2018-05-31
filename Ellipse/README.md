@@ -12,7 +12,7 @@ Produit par
 
 * [Créer Nouvelle Image](#créer-nouvelle-image "Créer Nouvelle Image") 
 * [Créer Ellipse](#créer-ellipse "Créer Ellipse") 
-
+---
 ### Créer Nouvelle Image
 
 * Créer Nouvelle Image
@@ -35,7 +35,7 @@ Produit par
     * CALQUE_ARRIERE_PLAN
     * Cliquer Dessus
     * Pour Appliquer Couleur
-
+---
 ### Créer Ellipse
 
 * Créer Calque
@@ -75,3 +75,7 @@ Produit par
     * CALQUE_CARRE
     * Cliquer Dessus
     * Pour Appliquer Couleur
+---
+# Voir Aussi
+
+* [Sommaire](https://github.com/gkesse/ReadyGimp/ "Sommaire")
