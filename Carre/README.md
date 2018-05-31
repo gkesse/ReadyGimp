@@ -34,7 +34,6 @@ Produit par
     * Pour Appliquer Couleur
 
 #### Créer Carré
----
 
 * Créer Calque
     * Calque
