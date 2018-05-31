@@ -15,7 +15,7 @@ Le but de ce test est de vous apprendre à créer un logo avec un effet de flott
 * Créer Effet Plasma
 * Créer Effet Repoussage Carte
 * Créer Masque de Calque
-* Coller/Coller/Ancrer Calque Flou Gaussien
+* Copier/Coller/Ancrer Calque Flou Gaussien
 * Dupliquer Calque Flou Gaussien
 * Inverser Calque Dupliqué
 * Créer Calque Transparent
