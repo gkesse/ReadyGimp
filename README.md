@@ -7,35 +7,34 @@ Produit par
 
 # Sommaire
 
-* [Gimp Téléchargement](#gimp-telechargement "Gimp Téléchargement") 
+* [Gimp Téléchargement](#gimp-téléchargement "Gimp Téléchargement") 
 * [Gimp Liste Outils](#gimp-liste-outils "Gimp Liste Outils") 
-* [Gimp Créer Image](#gimp-Créer-image "Gimp Créer Image") 
+* [Gimp Créer Image](#gimp-créer-image "Gimp Créer Image") 
 * [Gimp Enregistrer Feuille Dessin](#gimp-enregistrer-feuille-dessin "Gimp Enregistrer Feuille Dessin") 
 * [Gimp Expoter Image Png](#gimp-expoter-image-png "Gimp Expoter Image Png") 
-* [Gimp Redimensionner Taille Canevas](#gimp- "Gimp Redimensionner Taille Canevas") 
-* [Gimp Définir Couleur Premier Plan](#gimp-Définir-couleur-premier-plan "Gimp Définir Couleur Premier Plan") 
-* [Gimp Accéder Options Outil](#gimp-Accéder-options-outil "Gimp Accéder Options Outil") 
+* [Gimp Redimensionner Taille Canevas](#gimp-redimensionner-taille-canevas "Gimp Redimensionner Taille Canevas") 
+* [Gimp Définir Couleur Premier Plan](#gimp-définir-couleur-premier-plan "Gimp Définir Couleur Premier Plan") 
+* [Gimp Accéder Options Outil](#gimp-accéder-options-outil "Gimp Accéder Options Outil") 
 * [Gimp Remplir Couleur Premier Plan](#gimp-remplir-couleur-premier-plan "Gimp Remplir Couleur Premier Plan") 
 * [Gimp Permuter Couleur Premier Arriere Plan](#gimp-permuter-couleur-premier-arriere-plan "Gimp Permuter Couleur Premier Arriere Plan") 
-* [Gimp Définir Texte](#gimp-Définir-texte "Gimp Définir Texte") 
-* [Gimp Définir Options Outil Texte](#gimp-Définir-options-outil-texte "Gimp Définir Options Outil Texte") 
-* [Gimp Créer Nouveau Calque](#gimp-Créer-nouveau-calque "Gimp Créer Nouveau Calque") 
-* [Gimp Créer Calque Visible](#gimp- "Gimp Créer Calque Visible") 
-* [Gimp Créer Calque Visible](#gimp-Créer-calque-visible "Gimp Créer Calque Visible") 
-* [Gimp Créer Efflet Flou Gaussien](#gimp-Créer-efflet-flou-gaussien "Gimp Créer Efflet Flou Gaussien") 
-* [Gimp Créer Effet Plasma](#gimp-Créer-effet-plasma "Gimp Créer Effet Plasma") 
-* [Gimp Créer Effet Repoussage Carte](#gimp-Créer-effet-repoussage-carte "Gimp Créer Effet Repoussage Carte") 
-* [Gimp Créer Masque de Calque](#gimp-Créer-masque-de-calque "Gimp Créer Masque de Calque") 
+* [Gimp Définir Texte](#gimp-définir-texte "Gimp Définir Texte") 
+* [Gimp Définir Options Outil Texte](#gimp-définir-options-outil-texte "Gimp Définir Options Outil Texte") 
+* [Gimp Créer Nouveau Calque](#gimp-créer-nouveau-calque "Gimp Créer Nouveau Calque") 
+* [Gimp Créer Calque Visible](#gimp-créer-calque-visible "Gimp Créer Calque Visible") 
+* [Gimp Créer Efflet Flou Gaussien](#gimp-créer-efflet-flou-gaussien "Gimp Créer Efflet Flou Gaussien") 
+* [Gimp Créer Effet Plasma](#gimp-créer-effet-plasma "Gimp Créer Effet Plasma") 
+* [Gimp Créer Effet Repoussage Carte](#gimp-créer-effet-repoussage-carte "Gimp Créer Effet Repoussage Carte") 
+* [Gimp Créer Masque de Calque](#gimp-créer-masque-de-calque "Gimp Créer Masque de Calque") 
 * [Gimp Copier Calque](#gimp-copier-calque "Gimp Copier Calque") 
 * [Gimp Coller Calque](#gimp-coller-calque "Gimp Coller Calque") 
 * [Gimp Ancrer Calque](#gimp-ancrer-calque "Gimp Ancrer Calque") 
 * [Gimp Ajuster Niveau Couleur](#gimp-ajuster-niveau-couleur "Gimp Ajuster Niveau Couleur") 
 * [Gimp Dupliquer Calque](#gimp-dupliquer-calque "Gimp Dupliquer Calque") 
 * [Gimp Inverser Couleur Calque](#gimp-inverser-couleur-calque "Gimp Inverser Couleur Calque") 
-* [Gimp Créer Couleur Transparent](#gimp-Créer-couleur-transparent "Gimp Créer Couleur Transparent") 
-* [Gimp Déplacer Calque](#gimp-Déplacer-calque "Gimp Déplacer Calque") 
+* [Gimp Créer Couleur Transparent](#gimp-créer-couleur-transparent "Gimp Créer Couleur Transparent") 
+* [Gimp Déplacer Calque](#gimp-déplacer-calque "Gimp Déplacer Calque") 
 * [Gimp Mode Aucune Sélection](#gimp-mode-aucune-Sélection "Gimp Mode Aucune Sélection") 
-* [Gimp Decouper Calque](#gimp-decouper-calque "Gimp Decouper Calque") 
+* [Gimp Découper Calque](#gimp-découper-calque "Gimp Découper Calque") 
 
 # Tests
 * [Test Créer Logo](Logo#test-créer-logo "Test Créer Logo") 
@@ -318,7 +317,7 @@ Produit par
 * Sélection
 * Aucune
 
-# Gimp Decouper Calque
+# Gimp Découper Calque
 
 * Calques
 * NOM_CALQUE
