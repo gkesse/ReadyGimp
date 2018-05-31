@@ -2,25 +2,26 @@
 
 Gimp est un outil de synthèse d'images.  
 Le but de ce tutoriel est de vous apprendre la synthèse d'images avec GIMP.  
-Produit par Gérard KESSE.
+Produit par 
+[Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 
 * [Gimp Téléchargement](#gimp-telechargement "Gimp Téléchargement") 
+* [Gimp Liste Outils](#gimp-liste-outils "Gimp Liste Outils") 
 
-# Gimp Telechargement
+# Gimp Téléchargement
 
-https://www.gimp.org/
+* https://www.gimp.org/
 
-//================================================
-// Gimp Liste Outils
-//================================================
-### 1
+# Gimp Liste Outils
+
+### Menu 1
 Outil Selection Rectangulaire
 Outil Selection Elliptique
 Outil Selection Main Levée
 Outil Selection Couleur
 Outil Ciseaux Intelligents
 Outil Extraction Premier Plan
-### 2
+### Menu 2
 Outil Chemins
 Outil Pipette Couleurs
 Outil Zoom
@@ -28,7 +29,7 @@ Outil Mesure
 Outil Deplacement
 Outil Alignement
 Outil Decoupage
-### 3
+### Menu 3
 Outil Transformation Unifiee
 Outil Rotation
 Outil Mise Echelle
@@ -36,7 +37,7 @@ Outil Cisaillement
 Outil Transformation Poignees
 Outil Perspective
 Outil Retournement
-### 4
+### Menu 4
 Outil Transformation Cage
 Outil Gauchir
 Outil Texte
@@ -44,7 +45,7 @@ Outil Remplissage
 Outil Degrade
 Outil Crayon
 Outil Pinceau
-### 5
+### Menu 5
 Outil Gomme
 Outil Aerographe
 Outil Caligraphie
@@ -52,30 +53,29 @@ Outil Brosses MyPaint
 Outil Clonage
 Outil Correcteur
 Outil Clonage Perspective
-### 6
+### Menu 6
 Outil Flou Nettete
 Outil Barbouillage
 Outil Eclaircissement Assombrissement
-### 7
+### Menu 7
 Couleur Premier Arriere Plan
 Options Outil 
 Etat Peripheriques 
 Historique Annulation 
 Images 
-### 8
+### Menu 8
 Brosses
 Motifs
 Polices
 Historique Documents
 Editeur Brosses
-### 9
+### Menu 9
 Calques
 Canneaux
 Chemins
 
-//================================================
-// Gimp Creer Image
-//================================================
+# Gimp Creer Image
+
 Fichier
 Nouvelle Image
 Largeur
@@ -84,50 +84,43 @@ Hauteur
 512
 Valider
 
-//================================================
-// Gimp Enregistrer Feuille Dessin
-//================================================
+# Gimp Enregistrer Feuille Dessin
+
 Fichier
 Enregistrer sous 
 Nom
 NOM_FEUILLE_DESSIN
 Enregistrer
 
-//================================================
-// Gimp Definir Couleur Premier Plan
-//================================================
+# Gimp Definir Couleur Premier Plan
+
 Couleur Premier Plan
 Notation HTML
 NOM_COULEUR
 Valider
 
-//================================================
-// Gimp Acceder Options Outil
-//================================================
+# Gimp Acceder Options Outil
+
 Options Outil
 
-//================================================
-// Gimp Remplir Couleur Premier Plan
-//================================================
+# Gimp Remplir Couleur Premier Plan
+
 Outil Remplissage
 NOM_IMAGE
 Cliquer
 
-//================================================
-// Gimp Permuter Couleur Premier/Arriere Plan
-//================================================
+# Gimp Permuter Couleur Premier/Arriere Plan
+
 Outil Permututation Couleur Premier/Arriere Plan
 
-//================================================
-// Gimp Definir Texte
-//================================================
+# Gimp Definir Texte
+
 Outil Texte
 NOM_IMAGE
 Cliquer/Glisser
 
-//================================================
-// Gimp Definir Options Outil Texte
-//================================================
+# Gimp Definir Options Outil Texte
+
 Options Outil Texte
 Taille
 100 
@@ -135,27 +128,24 @@ px
 Police
 Broadway
 
-//================================================
-// Gimp Creer Nouveau Calque
-//================================================
+# Gimp Creer Nouveau Calque
+
 Calque
 Nouveau Calque
 Nom du Calque
 NOM_CALQUE
 Valider
 
-//================================================
-// Gimp Creer Calque Visible
-//================================================
+# Gimp Creer Calque Visible
+
 Calques
 NOM_CALQUE
 Clic Droit
 Nouveau depuis le Visible
 
 
-//================================================
-// Gimp Creer Efflet Flou
-//================================================
+# Gimp Creer Efflet Flou
+
 Calques
 NOM_CALQUE
 Filtres
@@ -169,9 +159,8 @@ Taille Y
 5.50
 Valider
 
-//================================================
-// Gimp Creer Effet Plasma
-//================================================
+# Gimp Creer Effet Plasma
+
 Calques
 NOM_CALQUE
 Filtres
@@ -184,9 +173,8 @@ Germe Aleatoire
 0
 Valider
 
-//================================================
-// Gimp Creer Effet Repoussage Carte
-//================================================
+# Gimp Creer Effet Repoussage Carte
+
 NOM_CALQUE
 Filtres
 Carte
@@ -199,9 +187,8 @@ Profondeur
 30
 Valider
 
-//================================================
-// Gimp Creer Masque de Calque
-//================================================
+# Gimp Creer Masque de Calque
+
 Calque
 Masque
 Ajouter un Masque de Calque
@@ -210,31 +197,27 @@ Blanc (Opacite Complete)
 Ajouter
 
 
-//================================================
-// Gimp Copier Calque
-//================================================
+# Gimp Copier Calque
+
 Calques
 NOM_CALQUE
 Edition
 Copier
 
-//================================================
-// Gimp Coller Calque
-//================================================
+# Gimp Coller Calque
+
 Calques
 NOM_CALQUE
 Edition
 Coller
 
-//================================================
-// Gimp Ancrer Calque
-//================================================
+# Gimp Ancrer Calque
+
 Calque
 Ancrer Calque
 
-//================================================
-// Gimp Ajuster Niveau Couleur
-//================================================
+# Gimp Ajuster Niveau Couleur
+
 Calques
 NOM_CALQUE
 Couleurs
@@ -247,25 +230,22 @@ Niveau Entree Droite
 255
 Valider
 
-//================================================
-// Gimp Dupliquer Calque
-//================================================
+# Gimp Dupliquer Calque
+
 Calques
 NOM_CALQUE
 Calque
 Dupliquer le Calque
 
-//================================================
-// Gimp Inverser Couleur Calque
-//================================================
+# Gimp Inverser Couleur Calque
+
 Calques
 NOM_CALQUE
 Couleur
 Inverser
 
-//================================================
-// Gimp Creer Couleur Transparent
-//================================================
+# Gimp Creer Couleur Transparent
+
 Calques
 NOM_CALQUE
 Calque
@@ -274,24 +254,21 @@ Couleur vers Alpha
 Couleur
 NOM_COULEUR
 
-//================================================
-// Gimp Deplacer Calque
-//================================================
+# Gimp Deplacer Calque
+
 Calques
 NOM_CALQUE
 Outil Deplacement
 BAS +10
 DOITE +5
 
-//================================================
-// Gimp Mode Aucune Selection
-//================================================
+# Gimp Mode Aucune Selection
+
 Selection
 Aucune
 
-//================================================
-// Gimp Decouper Calque
-//================================================
+# Gimp Decouper Calque
+
 Calques
 NOM_CALQUE
 Outil Decoupage
