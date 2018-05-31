@@ -15,54 +15,54 @@ Produit par
 # Gimp Liste Outils
 
 ### Menu 1
-Outil Selection Rectangulaire
-Outil Selection Elliptique
-Outil Selection Main Levée
-Outil Selection Couleur
-Outil Ciseaux Intelligents
-Outil Extraction Premier Plan
+* Outil Selection Rectangulaire
+* Outil Selection Elliptique
+* Outil Selection Main Levée
+* Outil Selection Couleur
+* Outil Ciseaux Intelligents
+* Outil Extraction Premier Plan
 ### Menu 2
-Outil Chemins
-Outil Pipette Couleurs
-Outil Zoom
-Outil Mesure
-Outil Deplacement
-Outil Alignement
-Outil Decoupage
+* Outil Chemins
+* Outil Pipette Couleurs
+* Outil Zoom
+* Outil Mesure
+* Outil Deplacement
+* Outil Alignement
+* Outil Decoupage
 ### Menu 3
-Outil Transformation Unifiee
-Outil Rotation
-Outil Mise Echelle
-Outil Cisaillement
-Outil Transformation Poignees
-Outil Perspective
-Outil Retournement
+* Outil Transformation Unifiee
+* Outil Rotation
+* Outil Mise Echelle
+* Outil Cisaillement
+* Outil Transformation Poignees
+* Outil Perspective
+* Outil Retournement
 ### Menu 4
-Outil Transformation Cage
-Outil Gauchir
-Outil Texte
-Outil Remplissage
-Outil Degrade
-Outil Crayon
-Outil Pinceau
+* Outil Transformation Cage
+* Outil Gauchir
+* Outil Texte
+* Outil Remplissage
+* Outil Degrade
+* Outil Crayon
+* Outil Pinceau
 ### Menu 5
-Outil Gomme
-Outil Aerographe
-Outil Caligraphie
-Outil Brosses MyPaint
-Outil Clonage
-Outil Correcteur
-Outil Clonage Perspective
+* Outil Gomme
+* Outil Aerographe
+* Outil Caligraphie
+* Outil Brosses MyPaint
+* Outil Clonage
+* Outil Correcteur
+* Outil Clonage Perspective
 ### Menu 6
-Outil Flou Nettete
-Outil Barbouillage
-Outil Eclaircissement Assombrissement
+* Outil Flou Nettete
+* Outil Barbouillage
+* Outil Eclaircissement Assombrissement
 ### Menu 7
-Couleur Premier Arriere Plan
-Options Outil 
-Etat Peripheriques 
-Historique Annulation 
-Images 
+* Couleur Premier Arriere Plan
+* Options Outil 
+* Etat Peripheriques 
+* Historique Annulation 
+* Images 
 ### Menu 8
 Brosses
 Motifs
