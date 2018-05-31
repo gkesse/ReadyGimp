@@ -19,18 +19,25 @@ Produit par
 * [Gimp Definir Options Outil Texte](#gimp-definir-options-outil-texte "Gimp Definir Options Outil Texte") 
 * [Gimp Creer Nouveau Calque](#gimp-creer-nouveau-calque "Gimp Creer Nouveau Calque") 
 * [Gimp Creer Calque Visible](#gimp- "Gimp Creer Calque Visible") 
-* [Gimp ](#gimp-creer-calque-visible "Gimp ") 
-* [Gimp ](#gimp- "Gimp ") 
-* [Gimp ](#gimp- "Gimp ") 
-* [Gimp ](#gimp- "Gimp ") 
-* [Gimp ](#gimp- "Gimp ") 
-* [Gimp ](#gimp- "Gimp ") 
+* [Gimp Creer Calque Visible](#gimp-creer-calque-visible "Gimp Creer Calque Visible") 
+* [Gimp Creer Efflet Flou](#gimp-creer-efflet-flou "Gimp Creer Efflet Flou") 
+* [Gimp Creer Effet Plasma](#gimp-creer-effet-plasma "Gimp Creer Effet Plasma") 
+* [Gimp Creer Effet Repoussage Carte](#gimp-creer-effet-repoussage-carte "Gimp Creer Effet Repoussage Carte") 
+* [Gimp Creer Masque de Calque](#gimp-creer-masque-de-calque "Gimp Creer Masque de Calque") 
+* [Gimp Copier Calque](#gimp-copier-calque "Gimp Copier Calque") 
+* [Gimp Coller Calque](#gimp-coller-calque "Gimp Coller Calque") 
+* [Gimp Ancrer Calque](#gimp-ancrer-calque "Gimp Ancrer Calque") 
+* [Gimp Ajuster Niveau Couleur](#gimp-ajuster-niveau-couleur "Gimp Ajuster Niveau Couleur") 
+* [Gimp Dupliquer Calque](#gimp-dupliquer-calque "Gimp Dupliquer Calque") 
+* [Gimp Inverser Couleur Calque](#gimp-inverser-couleur-calque "Gimp Inverser Couleur Calque") 
+* [Gimp Creer Couleur Transparent](#gimp-creer-couleur-transparent "Gimp Creer Couleur Transparent") 
+* [Gimp Deplacer Calque](#gimp-deplacer-calque "Gimp Deplacer Calque") 
+* [Gimp Mode Aucune Selection](#gimp-mode-aucune-selection "Gimp Mode Aucune Selection") 
+* [Gimp Decouper Calque](#gimp-decouper-calque "Gimp Decouper Calque") 
 
 # Gimp Téléchargement
 
 * https://www.gimp.org/
-
-[Sommaire](#sommaire "Sommaire")
 
 # Gimp Liste Outils
 
@@ -93,8 +100,6 @@ Produit par
 * Calques
 * Canneaux
 * Chemins
-
-[Sommaire](#sommaire "Sommaire")
 
 # Gimp Creer Image
 
