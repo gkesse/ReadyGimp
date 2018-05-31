@@ -1,9 +1,4 @@
-```css
-
-h1 {
-    color: red;
-} 
-```
+<span style="color:red">some **This is Red Bold.** text</span>
 
 # Test Créer Logo 
 
