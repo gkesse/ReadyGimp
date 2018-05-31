@@ -1,6 +1,3 @@
-CSS: .red{ color: red; }
-HTML: <a class="red"></h4>
-
 # Test Créer Carré 
 
 Le but de ce test est de vous apprendre à créer un carré.  

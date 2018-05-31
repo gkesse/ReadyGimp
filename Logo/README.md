@@ -1,5 +1,3 @@
-<span style="color:red">some **This is Red Bold.** text</span>
-
 # Test Créer Logo 
 
 Le but de ce test est de vous apprendre à créer un logo avec un effet flottant.  
