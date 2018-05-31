@@ -9,9 +9,6 @@ Produit par
 ![Logo.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Forme_Geometrique/Rectangle.png)
 
 # Procédure Suivie
-
-* [Créer Nouvelle Image](#créer-nouvelle-image "Créer Nouvelle Image") 
-* [Créer Rectangle](#créer-rectangle "Créer Rectangle") 
 ---
 ### Créer Nouvelle Image
 

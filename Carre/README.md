@@ -9,9 +9,6 @@ Produit par
 ![Logo.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Forme_Geometrique/Carre.png)
 
 # Procédure Suivie
-
-* [Créer Nouvelle Image](#créer-nouvelle-image "Créer Nouvelle Image") 
-* [Créer Carré](#créer-carré "Créer Carré") 
 ---
 ### Créer Nouvelle Image
 

@@ -9,9 +9,6 @@ Produit par
 ![Image_Fond.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Forme_Geometrique/Image_Fond.png)
 
 # Procédure Suivie
-
-* [Créer Nouvelle Image](#créer-nouvelle-image "Créer Nouvelle Image") 
-* [Créer Image_Fond](#créer-Image_Fond "Créer Image_Fond") 
 ---
 ### Créer Nouvelle Image
 
