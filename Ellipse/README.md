@@ -6,11 +6,11 @@ Produit par
 
 # Résultat Final
 
-![Logo.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Forme_Geometrique/Ellipse.png)
+![Ellipse.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Forme_Geometrique/Ellipse.png)
 
 # Procédure Suivie
 ---
-### Créer Nouvelle Image
+### Créer Image de Fond
 
 * Créer Nouvelle Image
     * Fichier

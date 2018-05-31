@@ -10,7 +10,7 @@ Produit par
 
 # Procédure Suivie
 ---
-### Créer Nouvelle Image
+### Créer Image de Fond
 
 * Créer Nouvelle Image
     * Fichier
@@ -30,46 +30,6 @@ Produit par
     * 100
     * Sélectionner
     * CALQUE_ARRIERE_PLAN
-    * Cliquer Dessus
-    * Pour Appliquer Couleur
----
-### Créer Image_Fond
-
-* Créer Calque
-    * Calque
-    * Nouvelle Calque
-    * Nom du Calque
-    * Carre
-    * Valier
-
-* Créer Image_Fond
-    * Sélectionner
-    * CALQUE_CARRE
-    * Outil de Sélection Rectangulaire
-    * Activer
-    * Lissage
-    * Désactiver
-    * Fixe
-    * Cliquer/Glisser Dessus
-    * Pour Dessiner Image_Fond
-
-* Permuter Couleur Premier Arrière Plan
-    * Outil Permuter Couleur Premier Arrière Plan
-
-* Définir une Couleur
-    * Outil Couleur Premier Plan
-    * Notation HTML
-    * 373f60
-    * Valider
-
-* Ajouter une Couleur
-    * Outil Remplissage
-    * Mode
-    * Normal
-    * Opacité
-    * 100
-    * Sélectionner
-    * CALQUE_CARRE
     * Cliquer Dessus
     * Pour Appliquer Couleur
 ---
