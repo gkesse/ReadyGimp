@@ -342,6 +342,11 @@ Produit par
 * NOM_CALQUE
 * Cliquer/Glisser
 
+# Gimp Appliquer Sélection
+
+* Appuyer
+* Touche Entrée
+
 # Gimp Créer Gradient Couleur
 
 * Outil Sélection Elliptique
@@ -359,9 +364,6 @@ Produit par
 * NOM_CALQUE
 * Cliquer/Glisser
 * Centre/Bordure
-*
-*
-*
 
 
 
