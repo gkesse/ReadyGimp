@@ -11,6 +11,7 @@ Produit par
 # Procédure Suivie
 
 ##### Créer Nouvelle Image
+---
 
 * Créer Nouvelle Image
     * Fichier
@@ -34,6 +35,7 @@ Produit par
     * Pour Appliquer Couleur
 
 ##### Créer Carré
+---
 
 * Créer Calque
     * Calque
