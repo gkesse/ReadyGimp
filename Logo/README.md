@@ -6,4 +6,4 @@ Produit par
 
 # Résultat Final
 
-![Test Creer Logo ](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/logo.png)
+![Test Creer Logo ](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo.png)
