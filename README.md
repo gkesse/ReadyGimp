@@ -64,15 +64,15 @@ Produit par
 * Historique Annulation 
 * Images 
 ### Menu 8
-Brosses
-Motifs
-Polices
-Historique Documents
-Editeur Brosses
+* Brosses
+* Motifs
+* Polices
+* Historique Documents
+* Editeur Brosses
 ### Menu 9
-Calques
-Canneaux
-Chemins
+* Calques
+* Canneaux
+* Chemins
 
 # Gimp Creer Image
 
@@ -86,106 +86,105 @@ Valider
 
 # Gimp Enregistrer Feuille Dessin
 
-Fichier
-Enregistrer sous 
-Nom
-NOM_FEUILLE_DESSIN
-Enregistrer
+* Fichier
+* Enregistrer sous 
+* Nom
+* NOM_FEUILLE_DESSIN
+* Enregistrer
 
 # Gimp Definir Couleur Premier Plan
 
-Couleur Premier Plan
-Notation HTML
-NOM_COULEUR
-Valider
+* Couleur Premier Plan
+* Notation HTML
+* NOM_COULEUR
+* Valider
 
 # Gimp Acceder Options Outil
 
-Options Outil
+* Options Outil
 
 # Gimp Remplir Couleur Premier Plan
 
-Outil Remplissage
-NOM_IMAGE
-Cliquer
+* Outil Remplissage
+* NOM_IMAGE
+* Cliquer
 
-# Gimp Permuter Couleur Premier/Arriere Plan
+# Gimp Permuter Couleur Premier Arriere Plan
 
-Outil Permututation Couleur Premier/Arriere Plan
+* Outil Permututation Couleur Premier Arriere Plan
 
 # Gimp Definir Texte
 
-Outil Texte
-NOM_IMAGE
-Cliquer/Glisser
+* Outil Texte
+* NOM_IMAGE
+* Cliquer/Glisser
 
 # Gimp Definir Options Outil Texte
 
-Options Outil Texte
-Taille
-100 
-px
-Police
-Broadway
+* Options Outil Texte
+* Taille
+100 px
+* Police
+* Broadway
 
 # Gimp Creer Nouveau Calque
 
-Calque
-Nouveau Calque
-Nom du Calque
-NOM_CALQUE
-Valider
+* Calque
+* Nouveau Calque
+* Nom du Calque
+* NOM_CALQUE
+* Valider
 
 # Gimp Creer Calque Visible
 
-Calques
-NOM_CALQUE
-Clic Droit
-Nouveau depuis le Visible
+* Calques
+* NOM_CALQUE
+* Clic Droit
+* Nouveau depuis le Visible
 
 
 # Gimp Creer Efflet Flou
 
-Calques
-NOM_CALQUE
-Filtres
-Flou
-Flou Gaussien
-Taille Ration
-Activer
-Taille X
-5.50
-Taille Y
-5.50
-Valider
+* Calques
+* NOM_CALQUE
+* Filtres
+* Flou
+* Flou Gaussien
+* Taille Ration
+* Activer
+* Taille X
+* 5.50
+* Taille Y
+* 5.50
+* Valider
 
 # Gimp Creer Effet Plasma
 
-Calques
-NOM_CALQUE
-Filtres
-Rendu
-Bruit
-Plasma
-Turbulence 
-1.000
-Germe Aleatoire
-0
-Valider
+* Calques
+* NOM_CALQUE
+* Filtres
+* Rendu
+* Bruit
+* Plasma
+* Turbulence 
+* 1.000
+* Germe Aleatoire
+* 0
+* Valider
 
 # Gimp Creer Effet Repoussage Carte
 
-NOM_CALQUE
-Filtres
-Carte
-Repoussage Carte
-Entree Aux
-Visible 
-Type
-Sinusoidal
-Profondeur
-30
-Valider
+* NOM_CALQUE
+* Filtres
+* Carte
+* Repoussage Carte
+* Entree Aux
+* Visible 
+* Type
+* Sinusoidal
+* Profondeur
+* 30
+* Valider
 
 # Gimp Creer Masque de Calque
 
