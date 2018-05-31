@@ -1,7 +1,7 @@
 # Apprendre la synthèse d'images avec GIMP 
 
-Gimp est un outil de synthèse d'images. 
-Le but de ce tutoriel est de vous apprendre la synthèse d'images avec GIMP.
+Gimp est un outil de synthèse d'images.  
+Le but de ce tutoriel est de vous apprendre la synthèse d'images avec GIMP.  
 Produit par Gérard KESSE.
 
 * [Gimp Téléchargement](#gimp-telechargement "Gimp Téléchargement") 
