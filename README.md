@@ -14,14 +14,14 @@ Produit par
 
 # Gimp Liste Outils
 
-### Menu 1
+###### Menu 1
 * Outil Selection Rectangulaire
 * Outil Selection Elliptique
 * Outil Selection Main Levée
 * Outil Selection Couleur
 * Outil Ciseaux Intelligents
 * Outil Extraction Premier Plan
-### Menu 2
+###### Menu 2
 * Outil Chemins
 * Outil Pipette Couleurs
 * Outil Zoom
@@ -29,7 +29,7 @@ Produit par
 * Outil Deplacement
 * Outil Alignement
 * Outil Decoupage
-### Menu 3
+###### Menu 3
 * Outil Transformation Unifiee
 * Outil Rotation
 * Outil Mise Echelle
@@ -37,7 +37,7 @@ Produit par
 * Outil Transformation Poignees
 * Outil Perspective
 * Outil Retournement
-### Menu 4
+###### Menu 4
 * Outil Transformation Cage
 * Outil Gauchir
 * Outil Texte
@@ -45,7 +45,7 @@ Produit par
 * Outil Degrade
 * Outil Crayon
 * Outil Pinceau
-### Menu 5
+###### Menu 5
 * Outil Gomme
 * Outil Aerographe
 * Outil Caligraphie
@@ -53,23 +53,23 @@ Produit par
 * Outil Clonage
 * Outil Correcteur
 * Outil Clonage Perspective
-### Menu 6
+###### Menu 6
 * Outil Flou Nettete
 * Outil Barbouillage
 * Outil Eclaircissement Assombrissement
-### Menu 7
+###### Menu 7
 * Couleur Premier Arriere Plan
 * Options Outil 
 * Etat Peripheriques 
 * Historique Annulation 
 * Images 
-### Menu 8
+###### Menu 8
 * Brosses
 * Motifs
 * Polices
 * Historique Documents
 * Editeur Brosses
-### Menu 9
+###### Menu 9
 * Calques
 * Canneaux
 * Chemins
