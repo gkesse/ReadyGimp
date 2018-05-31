@@ -92,7 +92,7 @@ Produit par
 * Canneaux
 * Chemins
 
-# Gimp Creer Image
+# Gimp Creer Image [Go](#sommaire "Sommaire")
 
 * Fichier
 * Nouvelle Image
