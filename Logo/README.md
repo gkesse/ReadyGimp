@@ -1,9 +1,5 @@
-```css
-
-h1 {
-    color: red;
-} 
-```
+CSS: .red{ color: red; }
+HTML: <a class="red"></h4>
 
 # Test Créer Logo 
 
