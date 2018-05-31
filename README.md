@@ -12,6 +12,7 @@ Produit par
 * [Gimp Créer Image](#gimp-Créer-image "Gimp Créer Image") 
 * [Gimp Enregistrer Feuille Dessin](#gimp-enregistrer-feuille-dessin "Gimp Enregistrer Feuille Dessin") 
 * [Gimp Expoter Image Png](#gimp-expoter-image-png "Gimp Expoter Image Png") 
+* [Gimp Redimensionner Taille Canevas](#gimp- "Gimp Redimensionner Taille Canevas") 
 * [Gimp Définir Couleur Premier Plan](#gimp-Définir-couleur-premier-plan "Gimp Définir Couleur Premier Plan") 
 * [Gimp Accéder Options Outil](#gimp-Accéder-options-outil "Gimp Accéder Options Outil") 
 * [Gimp Remplir Couleur Premier Plan](#gimp-remplir-couleur-premier-plan "Gimp Remplir Couleur Premier Plan") 
@@ -38,7 +39,6 @@ Produit par
 
 # Tests
 * [Test Créer Logo](Logo#test-créer-logo "Test Créer Logo") 
-
 
 # Gimp Téléchargement
 
@@ -135,6 +135,16 @@ Produit par
 * Enregistrer la Couleur Arriere Plan
 * Exporter
 
+# Gimp Redimensionner Taille Canevas
+
+* Image
+* Taille du Canevas
+* Largeur
+* 500
+* Hauteur
+* 500
+* Redimensionner
+
 # Gimp Définir Couleur Premier Plan
 
 * Couleur Premier Plan
@@ -220,7 +230,7 @@ Produit par
 * NOM_CALQUE
 * Filtres
 * Carte
-* Repoussage Carte
+* Repoussage d'après une Carte
 * Entree Aux
 * Visible 
 * Type
