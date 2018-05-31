@@ -6,7 +6,7 @@ Produit par
 
 # Résultat Final
 
-![Logo.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Forme_Geometrique/Carre.png)
+![Logo.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Forme_Geometrique/Ellipse.png)
 
 # Procédure Suivie
 
