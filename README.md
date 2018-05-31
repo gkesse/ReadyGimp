@@ -345,15 +345,23 @@ Produit par
 # Gimp Créer Gradient Couleur
 
 * Outil Sélection Elliptique
-* Outil Dégradé
 * Couleur Premier Plan
 * NOM_COULEUR_CLAIRE
 * Valider
 * Couleur Arrière Plan
 * NOM_COULEUR_FONCEE
 * Valider
-
-
+* Outil Dégradé
+* Dégradé
+* PP vers AP (RVB)
+* Forme 
+* Radial
+* NOM_CALQUE
+* Cliquer/Glisser
+* Centre/Bordure
+*
+*
+*
 
 
 
