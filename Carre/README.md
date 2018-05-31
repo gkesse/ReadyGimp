@@ -12,15 +12,19 @@ Produit par
 
 ###### Créer Nouvelle Image
 
-* Fichier
-* Nouvelle Image
+* Créer Nouvelle Image
 
+** Fichier
+** Nouvelle Image
 
-* Outil Couleur Premier Plan
-* Notation HTML
-* 051039
-* Valider
+* Définir une Couleur
 
+** Outil Couleur Premier Plan
+** Notation HTML
+** 051039
+** Valider
+
+###### Ajouter une Couleur
 
 * Outil Remplissage
 * Mode
@@ -32,7 +36,7 @@ Produit par
 * Cliquer Dessus
 * Pour Appliquer Couleur
 
-###### Créer Carré
+###### Créer Calque
 
 * Calque
 * Nouvelle Calque
@@ -40,20 +44,23 @@ Produit par
 * Carre
 * Valier
 
+###### Créer Carré
 
+* Sélectionner
+* CALQUE_CARRE
 * Outil de Sélection Rectangulaire
 * Activer
 * Lissage
 * Désactiver
 * Fixe
-* Sélectionner
-* CALQUE_CARRE
 * Cliquer/Glisser Dessus
 * Pour Dessiner Carré
 
+###### Permuter Couleur Premier Arrière Plan
 
-* Outil Permuter Couleur Premier/Arrière Plan
+* Outil Permuter Couleur Premier Arrière Plan
 
+###### Permuter Couleur Premier Arrière Plan
 
 * Outil Couleur Premier Plan
 * Notation HTML
