@@ -26,7 +26,7 @@ Produit par
 * [Gimp ](#gimp- "Gimp ") 
 * [Gimp ](#gimp- "Gimp ") 
 
-# Gimp Téléchargement
+# Gimp Téléchargement | [Sommaire](#sommaire "Sommaire")
 
 * https://www.gimp.org/
 
@@ -92,7 +92,7 @@ Produit par
 * Canneaux
 * Chemins
 
-# Gimp Creer Image [Go](#sommaire "Sommaire")
+# Gimp Creer Image | [Sommaire](#sommaire "Sommaire")
 
 * Fichier
 * Nouvelle Image
@@ -102,7 +102,7 @@ Produit par
 * 512
 * Valider
 
-# Gimp Enregistrer Feuille Dessin
+# Gimp Enregistrer Feuille Dessin | [Sommaire](#sommaire "Sommaire")
 
 * Fichier
 * Enregistrer sous 
@@ -110,34 +110,34 @@ Produit par
 * NOM_FEUILLE_DESSIN
 * Enregistrer
 
-# Gimp Definir Couleur Premier Plan
+# Gimp Definir Couleur Premier Plan | [Sommaire](#sommaire "Sommaire")
 
 * Couleur Premier Plan
 * Notation HTML
 * NOM_COULEUR
 * Valider
 
-# Gimp Acceder Options Outil
+# Gimp Acceder Options Outil | [Sommaire](#sommaire "Sommaire")
 
 * Options Outil
 
-# Gimp Remplir Couleur Premier Plan
+# Gimp Remplir Couleur Premier Plan | [Sommaire](#sommaire "Sommaire")
 
 * Outil Remplissage
 * NOM_IMAGE
 * Cliquer
 
-# Gimp Permuter Couleur Premier Arriere Plan
+# Gimp Permuter Couleur Premier Arriere Plan | [Sommaire](#sommaire "Sommaire")
 
 * Outil Permututation Couleur Premier Arriere Plan
 
-# Gimp Definir Texte
+# Gimp Definir Texte | [Sommaire](#sommaire "Sommaire")
 
 * Outil Texte
 * NOM_IMAGE
 * Cliquer/Glisser
 
-# Gimp Definir Options Outil Texte
+# Gimp Definir Options Outil Texte | [Sommaire](#sommaire "Sommaire")
 
 * Options Outil Texte
 * Taille
@@ -145,7 +145,7 @@ Produit par
 * Police
 * Broadway
 
-# Gimp Creer Nouveau Calque
+# Gimp Creer Nouveau Calque | [Sommaire](#sommaire "Sommaire")
 
 * Calque
 * Nouveau Calque
@@ -153,7 +153,7 @@ Produit par
 * NOM_CALQUE
 * Valider
 
-# Gimp Creer Calque Visible
+# Gimp Creer Calque Visible | [Sommaire](#sommaire "Sommaire")
 
 * Calques
 * NOM_CALQUE
@@ -161,7 +161,7 @@ Produit par
 * Nouveau depuis le Visible
 
 
-# Gimp Creer Efflet Flou
+# Gimp Creer Efflet Flou | [Sommaire](#sommaire "Sommaire")
 
 * Calques
 * NOM_CALQUE
@@ -176,7 +176,7 @@ Produit par
 * 5.50
 * Valider
 
-# Gimp Creer Effet Plasma
+# Gimp Creer Effet Plasma | [Sommaire](#sommaire "Sommaire")
 
 * Calques
 * NOM_CALQUE
@@ -190,7 +190,7 @@ Produit par
 * 0
 * Valider
 
-# Gimp Creer Effet Repoussage Carte
+# Gimp Creer Effet Repoussage Carte | [Sommaire](#sommaire "Sommaire")
 
 * NOM_CALQUE
 * Filtres
@@ -204,7 +204,7 @@ Produit par
 * 30
 * Valider
 
-# Gimp Creer Masque de Calque
+# Gimp Creer Masque de Calque | [Sommaire](#sommaire "Sommaire")
 
 * Calque
 * Masque
@@ -213,26 +213,26 @@ Produit par
 * Blanc (Opacite Complete)
 * Ajouter
 
-# Gimp Copier Calque
+# Gimp Copier Calque | [Sommaire](#sommaire "Sommaire")
 
 * Calques
 * NOM_CALQUE
 * Edition
 * Copier
 
-# Gimp Coller Calque
+# Gimp Coller Calque | [Sommaire](#sommaire "Sommaire")
 
 * Calques
 * NOM_CALQUE
 * Edition
 * Coller
 
-# Gimp Ancrer Calque
+# Gimp Ancrer Calque | [Sommaire](#sommaire "Sommaire")
 
 * Calque
 * Ancrer Calque
 
-# Gimp Ajuster Niveau Couleur
+# Gimp Ajuster Niveau Couleur | [Sommaire](#sommaire "Sommaire")
 
 * Calques
 * NOM_CALQUE
@@ -246,21 +246,21 @@ Produit par
 * 255
 * Valider
 
-# Gimp Dupliquer Calque
+# Gimp Dupliquer Calque | [Sommaire](#sommaire "Sommaire")
 
 * Calques
 * NOM_CALQUE
 * Calque
 * Dupliquer le Calque
 
-# Gimp Inverser Couleur Calque
+# Gimp Inverser Couleur Calque | [Sommaire](#sommaire "Sommaire")
 
 * Calques
 * NOM_CALQUE
 * Couleur
 * Inverser
 
-# Gimp Creer Couleur Transparent
+# Gimp Creer Couleur Transparent | [Sommaire](#sommaire "Sommaire")
 
 * Calques
 * NOM_CALQUE
@@ -270,7 +270,7 @@ Produit par
 * Couleur
 * NOM_COULEUR
 
-# Gimp Deplacer Calque
+# Gimp Deplacer Calque | [Sommaire](#sommaire "Sommaire")
 
 * Calques
 * NOM_CALQUE
@@ -278,12 +278,12 @@ Produit par
 * BAS +10
 * DOITE +5
 
-# Gimp Mode Aucune Selection
+# Gimp Mode Aucune Selection | [Sommaire](#sommaire "Sommaire")
 
 * Selection
 * Aucune
 
-# Gimp Decouper Calque
+# Gimp Decouper Calque | [Sommaire](#sommaire "Sommaire")
 
 * Calques
 * NOM_CALQUE
