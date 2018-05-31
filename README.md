@@ -35,6 +35,10 @@ Produit par
 * [Gimp Mode Aucune Selection](#gimp-mode-aucune-selection "Gimp Mode Aucune Selection") 
 * [Gimp Decouper Calque](#gimp-decouper-calque "Gimp Decouper Calque") 
 
+# Tests
+* [Test Créer Logo](Logo#test-créer-logo "Test Créer Logo") 
+
+
 # Gimp Téléchargement
 
 * https://www.gimp.org/
