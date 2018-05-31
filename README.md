@@ -359,11 +359,17 @@ Produit par
 * Outil Dégradé
 * Dégradé
 * PP vers AP (RVB)
+* PP vers Transparent
 * Forme 
 * Radial
 * NOM_CALQUE
 * Cliquer/Glisser
 * Centre/Bordure
+
+# Gimp Annuler Dernière Sélection
+
+* Edition
+* Annuler Dernière Sélection
 
 
 
