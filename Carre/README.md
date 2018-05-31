@@ -13,8 +13,8 @@ Produit par
 ###### Créer Nouvelle Image
 
 * Créer Nouvelle Image
-** Fichier
-** Nouvelle Image
+ * Fichier
+ * Nouvelle Image
 
 * Définir une Couleur
 ** Outil Couleur Premier Plan
