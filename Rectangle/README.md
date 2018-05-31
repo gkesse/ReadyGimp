@@ -78,4 +78,4 @@ Produit par
 
 # Voir Aussi
 
-* [Sommaire](/ "Sommaire")
+* [Sommaire](https://github.com/gkesse/ReadyGimp/ "Sommaire")
