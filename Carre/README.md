@@ -13,26 +13,25 @@ Produit par
 ###### Créer Nouvelle Image
 
 * Créer Nouvelle Image
- * Fichier
- * Nouvelle Image
+     Fichier
+    * Nouvelle Image
 
 * Définir une Couleur
-** Outil Couleur Premier Plan
-** Notation HTML
-** 051039
-** Valider
+    * Outil Couleur Premier Plan
+    * Notation HTML
+    * 051039
+    * Valider
 
-###### Ajouter une Couleur
-
-* Outil Remplissage
-* Mode
-* Normal
-* Opacité
-* 100
-* Sélectionner
-* CALQUE_ARRIERE_PLAN
-* Cliquer Dessus
-* Pour Appliquer Couleur
+* Ajouter une Couleur
+    * Outil Remplissage
+    * Mode
+    * Normal
+    * Opacité
+    * 100
+    * Sélectionner
+    * CALQUE_ARRIERE_PLAN
+    * Cliquer Dessus
+    * Pour Appliquer Couleur
 
 ###### Créer Calque
 
