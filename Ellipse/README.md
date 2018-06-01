@@ -44,8 +44,8 @@ Produit par
 
 * Créer Ellipse
     * Sélectionner
-    * CALQUE_CARRE
-    * Outil de Sélection Rectangulaire
+    * CALQUE_ELLIPSE
+    * Outil de Sélection Elliptique
     * Activer
     * Lissage
     * Désactiver
@@ -69,7 +69,7 @@ Produit par
     * Opacité
     * 100
     * Sélectionner
-    * CALQUE_CARRE
+    * CALQUE_ELLIPSE
     * Cliquer Dessus
     * Pour Appliquer Couleur
 ---
