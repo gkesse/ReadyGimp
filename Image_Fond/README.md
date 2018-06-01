@@ -35,4 +35,4 @@ Produit par
 ---
 # Voir Aussi
 
-* [ReadyGimp](https://github.com/gkesse/ReadyGimp/ "ReadyGimp")
+* [ReadyGimp](https://github.com/gkesse/ReadyGimp/#sommaire "ReadyGimp")
