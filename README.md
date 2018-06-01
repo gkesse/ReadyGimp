@@ -24,5 +24,5 @@ Produit par
 * [Cercle](Cercle#cercle "Cercle") 
 
 # Projets
-* [Logo](Logo#logo "Logo") 
+* [Logo Texte Effet Flottant](Logo#logo "Logo Texte Effet Flottant") 
 
