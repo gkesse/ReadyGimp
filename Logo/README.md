@@ -1,4 +1,4 @@
-# Logo 
+# Logo Texte Effet Flottant
 
 Le but de ce test est de vous apprendre à créer un Logo Texte avec un effet flottant.  
 Produit par 
