@@ -10,29 +10,6 @@ Produit par
 
 # Procédure Suivie
 ---
-### Créer Image de Fond
-
-* Créer Nouvelle Image
-    * Fichier
-    * Nouvelle Image
-
-* Définir une Couleur
-    * Outil Couleur Premier Plan
-    * Notation HTML
-    * 051039
-    * Valider
-
-* Ajouter une Couleur
-    * Outil Remplissage
-    * Mode
-    * Normal
-    * Opacité
-    * 100
-    * Sélectionner
-    * CALQUE_ARRIERE_PLAN
-    * Cliquer Dessus
-    * Pour Appliquer Couleur
----
 ### Créer Cercle
 
 * Créer Calque
@@ -44,17 +21,14 @@ Produit par
 
 * Créer Cercle
     * Sélectionner
-    * CALQUE_CARRE
-    * Outil de Sélection Rectangulaire
+    * CALQUE_CERCLE
+    * Outil de Sélection Elliptique
     * Activer
     * Lissage
-    * Désactiver
+    * Activer
     * Fixe
     * Cliquer/Glisser Dessus
     * Pour Dessiner Cercle
-
-* Permuter Couleur Premier Arrière Plan
-    * Outil Permuter Couleur Premier Arrière Plan
 
 * Définir une Couleur
     * Outil Couleur Premier Plan
@@ -69,7 +43,7 @@ Produit par
     * Opacité
     * 100
     * Sélectionner
-    * CALQUE_CARRE
+    * CALQUE_CERCLE
     * Cliquer Dessus
     * Pour Appliquer Couleur
 ---

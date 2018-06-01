@@ -10,29 +10,6 @@ Produit par
 
 # Procédure Suivie
 ---
-### Créer Image de Fond
-
-* Créer Nouvelle Image
-    * Fichier
-    * Nouvelle Image
-
-* Définir une Couleur
-    * Outil Couleur Premier Plan
-    * Notation HTML
-    * 051039
-    * Valider
-
-* Ajouter une Couleur
-    * Outil Remplissage
-    * Mode
-    * Normal
-    * Opacité
-    * 100
-    * Sélectionner
-    * CALQUE_ARRIERE_PLAN
-    * Cliquer Dessus
-    * Pour Appliquer Couleur
----
 ### Créer Carré
 
 * Créer Calque
@@ -48,7 +25,7 @@ Produit par
     * Outil de Sélection Rectangulaire
     * Activer
     * Lissage
-    * Désactiver
+    * Activer
     * Fixe
     * Cliquer/Glisser Dessus
     * Pour Dessiner Carré

@@ -44,7 +44,7 @@ Produit par
 
 * Créer Rectangle
     * Sélectionner
-    * CALQUE_CARRE
+    * CALQUE_RECTANGLE
     * Outil de Sélection Rectangulaire
     * Activer
     * Lissage
@@ -69,7 +69,7 @@ Produit par
     * Opacité
     * 100
     * Sélectionner
-    * CALQUE_CARRE
+    * CALQUE_RECTANGLE
     * Cliquer Dessus
     * Pour Appliquer Couleur
 ---
