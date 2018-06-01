@@ -53,9 +53,6 @@ Produit par
     * Cliquer/Glisser Dessus
     * Pour Dessiner Ellipse
 
-* Permuter Couleur Premier Arrière Plan
-    * Outil Permuter Couleur Premier Arrière Plan
-
 * Définir une Couleur
     * Outil Couleur Premier Plan
     * Notation HTML
