@@ -6,10 +6,10 @@ Produit par
 
 # Résultat Final
 
-###### Fond Transparent
+### Fond Transparent
 ![Logo.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo.png)
 
-###### Fond Bleu
+### Fond Bleu
 ![Logo2.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo2.png)
 
 # Procédure Suivie
