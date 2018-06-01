@@ -6,7 +6,7 @@ Produit par
 
 # Résultat Final
 
-![Orbe.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Orbe/Orbe2.png)
+![Orbe.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Orbe/Orbe.png)
 ---
 # Voir Aussi
 
