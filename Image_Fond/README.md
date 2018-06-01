@@ -1,4 +1,4 @@
-# Test Créer Image de Fond 
+# Image de Fond 
 
 Le but de ce test est de vous apprendre à créer une Image de Fond.  
 Produit par 
