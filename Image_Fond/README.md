@@ -35,4 +35,4 @@ Produit par
 ---
 # Voir Aussi
 
-* [ReadyGimp](https://github.com/gkesse/ReadyGimp/#sommaire "ReadyGimp")
+* [ReadyGimp](https://github.com/gkesse/ReadyGimp/#apprendre-la-synthèse-dimages-avec-gimp "ReadyGimp")
