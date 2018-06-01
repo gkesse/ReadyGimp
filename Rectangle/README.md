@@ -1,4 +1,4 @@
-# Test Créer Rectangle 
+# Rectangle 
 
 Le but de ce test est de vous apprendre à créer un Rectangle.  
 Produit par 

@@ -1,4 +1,4 @@
-# Test Créer Ellipse 
+# Ellipse 
 
 Le but de ce test est de vous apprendre à créer une Ellipse.  
 Produit par 
