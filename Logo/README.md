@@ -13,7 +13,7 @@ Produit par
 ![Logo2.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo2.png)
 
 # Procédure Suivie
-
+---
 * Créer Calque Fond Noir
 * Créer Texte Couleur Blanc
 * Créer Calque Visible
@@ -29,3 +29,7 @@ Produit par
 * Pour Créer Effet Ombre
 * Ajuster Niveau Couleur Calque Masque
 * Créer Calque Fond Bleu
+---
+# Voir Aussi
+
+* [ReadyGimp](https://github.com/gkesse/ReadyGimp/#sommaire "ReadyGimp")

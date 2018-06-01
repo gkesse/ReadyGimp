@@ -25,4 +25,3 @@ Produit par
 
 # Projets
 * [Logo Texte Effet Flottant](Logo#logo "Logo Texte Effet Flottant") 
-
