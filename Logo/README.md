@@ -1,6 +1,6 @@
 # Logo Texte Effet Flottant
 
-Le but de ce test est de vous apprendre à créer un Logo Texte avec un effet flottant.  
+Le but de ce test est de vous apprendre à créer un Logo Texte avec un Effet Flottant.  
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 

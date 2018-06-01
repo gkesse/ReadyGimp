@@ -1,16 +1,12 @@
-# Test Créer Logo 
+# Orbe Effet Réflexion
 
-Le but de ce test est de vous apprendre à créer un logo avec un effet flottant.  
+Le but de ce test est de vous apprendre à créer une Orbe avec un Effet Réflexion.  
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 
 # Résultat Final
 
-### Fond Transparent
 ![Logo.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo.png)
-
-### Fond Bleu
-![Logo2.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo2.png)
 ---
 # Voir Aussi
 
