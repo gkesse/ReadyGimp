@@ -11,24 +11,6 @@ Produit par
 
 ### Fond Bleu
 ![Logo2.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo2.png)
-
-# Procédure Suivie
----
-* Créer Calque Fond Noir
-* Créer Texte Couleur Blanc
-* Créer Calque Visible
-* Créer Effet Flou Gaussien
-* Créer Effet Plasma
-* Créer Effet Repoussage Carte
-* Créer Masque de Calque
-* Copier/Coller/Ancrer Calque Flou Gaussien
-* Dupliquer Calque Flou Gaussien
-* Inverser Calque Dupliqué
-* Créer Calque Transparent
-* Déplacer Calque Transparent Bas Droite
-* Pour Créer Effet Ombre
-* Ajuster Niveau Couleur Calque Masque
-* Créer Calque Fond Bleu
 ---
 # Voir Aussi
 
