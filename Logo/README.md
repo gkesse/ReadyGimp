@@ -8,9 +8,6 @@ Produit par
 
 ### Fond Transparent
 ![Logo.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo.png)
-
-### Fond Bleu
-![Logo2.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo2.png)
 ---
 # Voir Aussi
 
