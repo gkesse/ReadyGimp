@@ -18,10 +18,10 @@ Produit par
 * [Image de Fond](Image_Fond#rectangle "Image de Fond") 
 
 # Formes Géométriques
-* [Rectangle](Rectangle#rectangle "Rectangule") 
-* [Carré](Carre#carré "Carré") 
-* [Ellipse](Ellipse#ellipse "Ellipse") 
-* [Cercle](Cercle#cercle "Cercle") 
+* [Rectangle](Forme_Geometrique/Rectangle#rectangle "Rectangle") 
+* [Carré](Forme_Geometrique/Carre#carré "Carré") 
+* [Ellipse](Forme_Geometrique/Ellipse#ellipse "Ellipse") 
+* [Cercle](Forme_Geometrique/Cercle#cercle "Cercle") 
 
 # Gradients
 * [Transparent](Gradients/Transparent#transparent "Transparent") 
