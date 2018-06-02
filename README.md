@@ -35,5 +35,5 @@ Produit par
 * [Gradient Spirale Sens Anti-Horaire](Gradient/Spirale_Sens_Anti_Horaire "Gradient Spiral Sens Anti-Horaire") 
 
 # Projets
-* [Logo Texte Effet Flottant](Logo#logo "Logo Texte Effet Flottant") 
-* [Orbe Effet Réflexion](Orbe#orbe-effet-réflexion "Orbe Effet Réflexion") 
+* [Logo Texte Effet Flottant](Projet/Logo "Logo Texte Effet Flottant") 
+* [Orbe Effet Réflexion](Projet/Orbe "Orbe Effet Réflexion") 
