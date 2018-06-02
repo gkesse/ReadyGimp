@@ -15,21 +15,24 @@ Produit par
 * https://www.gimp.org/
 
 # Image de Fond
-* [Image de Fond](Image_Fond#rectangle "Image de Fond") 
+* [Image de Fond](Image_Fond "Image de Fond") 
 
 # Formes Géométriques
-* [Rectangle](Forme_Geometrique/Rectangle#rectangle "Rectangle") 
-* [Carré](Forme_Geometrique/Carre#carré "Carré") 
-* [Ellipse](Forme_Geometrique/Ellipse#ellipse "Ellipse") 
-* [Cercle](Forme_Geometrique/Cercle#cercle "Cercle") 
+* [Rectangle](Forme_Geometrique/Rectangle "Rectangle") 
+* [Carré](Forme_Geometrique/Carre "Carré") 
+* [Ellipse](Forme_Geometrique/Ellipse "Ellipse") 
+* [Cercle](Forme_Geometrique/Cercle "Cercle") 
 
 # Gradients
-* [Transparent](Gradient/Transparent "Transparent") 
-* [Linéaire](Gradient/Lineaire "Linéaire") 
-* [Bi-Linéaire](Gradient/BiLineaire "Bi-Linéaire") 
-* [Raial](Gradient/Raial#raial "Raial") 
-* [Transparent](Gradient/Transparent "Transparent") 
-* [Transparent](Gradient/Transparent "Transparent") 
+* [Gradient Transparent](Gradient/Transparent "Gradient Transparent") 
+* [Gradient Linéaire](Gradient/Lineaire "Gradient Linéaire") 
+* [Gradient Bi-Linéaire](Gradient/BiLineaire "Gradient Bi-Linéaire") 
+* [Gradient Radial](Gradient/Radial "Gradient Radial") 
+* [Gradient Carré](Gradient/Carre "Gradient Transparent") 
+* [Gradient Conique Symétrique](Gradient/Conique_Symetrique "Gradient Conique Symétrique") 
+* [Gradient Conique Asymétrique](Gradient/Conique_Asymetrique "Gradient Conique Asymétrique") 
+* [Gradient Spiral Sens Horaire](Gradient/Transparent "Gradient Spiral Sens Horaire") 
+* [Gradient Spiral Sens Anti-Horaire](Gradient/Transparent "Gradient Spiral Sens Anti-Horaire") 
 
 # Projets
 * [Logo Texte Effet Flottant](Logo#logo "Logo Texte Effet Flottant") 
