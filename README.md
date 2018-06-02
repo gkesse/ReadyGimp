@@ -23,6 +23,14 @@ Produit par
 * [Ellipse](Ellipse#ellipse "Ellipse") 
 * [Cercle](Cercle#cercle "Cercle") 
 
+# Gradients
+* [Transparent](Gradients/Transparent#transparent "Transparent") 
+* [Transparent](Gradients/Transparent#transparent "Transparent") 
+* [Transparent](Gradients/Transparent#transparent "Transparent") 
+* [Transparent](Gradients/Transparent#transparent "Transparent") 
+* [Transparent](Gradients/Transparent#transparent "Transparent") 
+* [Transparent](Gradients/Transparent#transparent "Transparent") 
+
 # Projets
 * [Logo Texte Effet Flottant](Logo#logo "Logo Texte Effet Flottant") 
 * [Orbe Effet Réflexion](Orbe#orbe-effet-réflexion "Orbe Effet Réflexion") 
