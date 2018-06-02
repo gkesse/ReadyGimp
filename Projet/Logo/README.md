@@ -7,7 +7,7 @@ Produit par
 # Résultat Final
 
 ### Fond Transparent
-![Logo.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo.png)
+![Logo.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Projet/Logo/Logo.png)
 ---
 # Voir Aussi
 
