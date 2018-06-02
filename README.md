@@ -31,8 +31,8 @@ Produit par
 * [Gradient Carré](Gradient/Carre "Gradient Transparent") 
 * [Gradient Conique Symétrique](Gradient/Conique_Symetrique "Gradient Conique Symétrique") 
 * [Gradient Conique Asymétrique](Gradient/Conique_Asymetrique "Gradient Conique Asymétrique") 
-* [Gradient Spiral Sens Horaire](Gradient/Transparent "Gradient Spiral Sens Horaire") 
-* [Gradient Spiral Sens Anti-Horaire](Gradient/Transparent "Gradient Spiral Sens Anti-Horaire") 
+* [Gradient Spirale Sens Horaire](Gradient/Spirale_Sens_Horaire "Gradient Spiral Sens Horaire") 
+* [Gradient Spirale Sens Anti-Horaire](Gradient/Spirale_Sens_Anti_Horaire "Gradient Spiral Sens Anti-Horaire") 
 
 # Projets
 * [Logo Texte Effet Flottant](Logo#logo "Logo Texte Effet Flottant") 

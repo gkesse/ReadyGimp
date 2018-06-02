@@ -1,4 +1,4 @@
-# Gradient Spiral Sens Anti-Horaire
+# Gradient Spirale Sens Anti-Horaire
 
 Le but de ce test est de vous apprendre à créer un Gradient Spiral Sens Anti-Horaire.  
 Produit par 
@@ -6,7 +6,7 @@ Produit par
 
 # Résultat Final
 
-![Gradient Spiral Sens Anti-Horaire](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Gradient/Spiral_Sens_Anti_Horaire.png)
+![Gradient Spirale Sens Anti-Horaire](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Gradient/Spirale_Sens_Anti_Horaire.png)
 ---
 # Voir Aussi
 
