@@ -24,12 +24,12 @@ Produit par
 * [Cercle](Forme_Geometrique/Cercle#cercle "Cercle") 
 
 # Gradients
-* [Transparent](Gradient/Transparent#transparent "Transparent") 
-* [Transparent](Gradient/Transparent#transparent "Transparent") 
-* [Transparent](Gradient/Transparent#transparent "Transparent") 
-* [Transparent](Gradient/Transparent#transparent "Transparent") 
-* [Transparent](Gradient/Transparent#transparent "Transparent") 
-* [Transparent](Gradient/Transparent#transparent "Transparent") 
+* [Transparent](Gradient/Transparent "Transparent") 
+* [Linéaire](Gradient/Lineaire "Linéaire") 
+* [Bi-Linéaire](Gradient/BiLineaire "Bi-Linéaire") 
+* [Raial](Gradient/Raial#raial "Raial") 
+* [Transparent](Gradient/Transparent "Transparent") 
+* [Transparent](Gradient/Transparent "Transparent") 
 
 # Projets
 * [Logo Texte Effet Flottant](Logo#logo "Logo Texte Effet Flottant") 
