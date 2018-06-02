@@ -7,7 +7,7 @@ Produit par
 # Résultat Final
 
 ### Fond Transparent
-![Gradient Transparent.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Logo/Logo.png)
+![Transparent.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Gradient/Transparent.png)
 ---
 # Voir Aussi
 
