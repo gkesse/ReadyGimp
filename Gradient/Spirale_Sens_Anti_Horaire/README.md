@@ -1,4 +1,4 @@
-# Gradient Spiral Sens Horaire
+# Gradient Spirale Sens Horaire
 
 Le but de ce test est de vous apprendre à créer un Gradient Spiral Sens Horaire.  
 Produit par 
@@ -6,7 +6,7 @@ Produit par
 
 # Résultat Final
 
-![Gradient Spiral Sens Horaire](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Gradient/Spiral_Sens_Horaire.png)
+![Gradient Spirale Sens Horaire](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Gradient/Spirale_Sens_Horaire.png)
 ---
 # Voir Aussi
 
