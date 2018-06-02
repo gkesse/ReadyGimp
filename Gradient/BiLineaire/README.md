@@ -1,13 +1,12 @@
-# Gradient Transparent
+# Gradient Bi-Linéaire
 
-Le but de ce test est de vous apprendre à créer un Gradient Transparent.  
+Le but de ce test est de vous apprendre à créer un Gradient Bi-Linéaire.  
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 
 # Résultat Final
 
-### Fond Transparent
-![Transparent.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Gradient/Transparent.png)
+![Gradient Bi-Linéaire](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Gradient/BiLineaire.png)
 ---
 # Voir Aussi
 

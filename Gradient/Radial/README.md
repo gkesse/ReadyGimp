@@ -6,8 +6,7 @@ Produit par
 
 # Résultat Final
 
-### Fond Raial
-![Raial.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Gradient/Raial.png)
+![Gradient Raial](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Gradient/Raial.png)
 ---
 # Voir Aussi
 

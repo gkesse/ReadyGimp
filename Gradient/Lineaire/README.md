@@ -6,8 +6,7 @@ Produit par
 
 # Résultat Final
 
-### Fond Lineaire
-![Lineaire.png](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Gradient/Lineaire.png)
+![Gradient Linéaire](https://raw.githubusercontent.com/gkesse/ReadyGimp/master/Gradient/Lineaire.png)
 ---
 # Voir Aussi
 
